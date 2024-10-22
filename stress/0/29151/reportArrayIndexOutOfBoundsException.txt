@@ -1,0 +1,15 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 119 out of bounds for length 119
+	at com.alibaba.fastjson2.JSONReaderUTF16.readString(JSONReaderUTF16.java:4049)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:280)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: ["y–ñM‚ïôj|+‚ïò—Ö‚àô—Ü–∫–≥‚ï®–´XZWW[X\[W\[W[[XYZWZZZ[\Z\XYW\XY[\YXYZY[XXYW\[ZY[WWYW\\XXW\XZ\WWYYZ\YXZWWX[YZ\Z[YXZZ\XY\ZW\[YW[Y[Y\ZZZ\]
+
+[118, 34, 121, -10, 77, -86, 29, 106, 124, 43, -87, -56, -107, -61, -53, -57, -70, -7, 88, 90, 87, 87, 91, 88, 92, 91, 87, 92, 91, 87, 91, 91, 88, 89, 90, 87, 90, 90, 90, 91, 92, 90, 92, 88, 89, 87, 92, 88, 89, 91, 92, 89, 88, 89, 90, 89, 91, 88, 88, 89, 87, 92, 91, 90, 89, 91, 87, 87, 89, 87, 92, 92, 88, 88, 87, 92, 88, 90, 92, 87, 87, 89, 89, 90, 92, 89, 88, 90, 87, 87, 88, 91, 89, 90, 92, 90, 91, 89, 88, 90, 90, 92, 88, 89, 92, 90, 87, 92, 91, 89, 87, 91, 89, 91, 89, 92, 90, 90, 90, 92, 88, 91, 91, 88, 91, 88, 91, 88, 92, 89, 88, 90, 89, 91, 87, 90, 90, 89, 87, 87, 89, 91, 89, 89, 89, 90, 90, 91, 88, 88, 89, 87, 91, 90, 91, 88, 92, 92, 91, 91, 87, 89, 89, 92, 87, 88, 91, 92, 87, 87, 87, 87, 90, 89, 91, 87, 89, 87, 89, 90, 92, 92, 88, 87, 88, 89, 92, 90, 90, 89, 87, 91, 91, 92, 92, 90, 90, 91, 90, 87, 92, 87, 90, 91, 88, 92, 87, 88, 89, 90, 87, 90, 89, 89, 92, 88, 92, 91, 89, 92, 88, 91, 92, 90, 90, 89, 92, 91, 91, 92, 90, 87, 89, 88, 88, 91, 91, 87, 88, 89, 87, 90, 89, 90, 89, 91, 90, 92, 91, 87, 88, 87, 91, 88, 92, 92, 87, 87, 88, 90, 92, 92, 87, 88, 91, 90, 92, 92, 91, 89, 90, 91, 90, 87, 92, 88, 92, 89, 90, 87, 88, -20, 30, -15, -2, 53, 16, 47, 94, -18, 31, 36, -127, 95, -68, 58, -33, -13, -34, 3]
+
+v"yˆM™j|+©»ï√À«∫˘XZWW[X\[W\[W[[XYZWZZZ[\Z\XYW\XY[\YXYZY[XXYW\[ZY[WWYW\\XXW\XZ\WWYYZ\YXZWWX[YZ\Z[YXZZ\XY\ZW\[YW[Y[Y\ZZZ\X[[X[X[X\YXZY[WZZYWWY[YYYZZ[XXYW[Z[X\\[[WYY\WX[\WWWWZY[WYWYZ\\XWXY\ZZYW[[\\ZZ[ZW\WZ[X\WXYZWZYY\X\[Y\X[\ZZY\[[\ZWYXX[[WXYWZYZY[Z\[WXW[X\\WWXZ\\WX[Z\\[YZ[ZW\X\YZWXÏÒ˛5/^Ó$Å_º:ﬂÛﬁ

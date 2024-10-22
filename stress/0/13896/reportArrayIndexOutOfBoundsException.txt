@@ -1,0 +1,15 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 40 out of bounds for length 40
+	at com.alibaba.fastjson2.JSONReaderASCII.readString(JSONReaderASCII.java:1556)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:280)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: ['.268.58(*.56%&9_NOVLHP^E\]
+
+[39, 39, 46, 50, 54, 23, 21, 31, 25, 20, 56, 46, 17, 28, 53, 19, 56, 40, 31, 23, 25, 15, 42, 46, 53, 54, 37, 38, 57, 19, 15, 95, 78, 79, 86, 76, 72, 80, 94, 69, 92, 89, 91, 69, 95, 79, 76, 88, 79, 78, 91, 94, 79, 90, 94, 65, 68, 80, 75, 82, 62, 87, 66, 78, 84, 78, 80, 91, 77, 67, 71, 83, 81, 83, 84, 92, 94, 63, 92, 94, 69, 86, 62, 87, 69, 71, 75, 70, 90, 81, 75, 77, 71, 79, 89, 66, 64, 84, 80, 89, 94, 73, 65, 70, 85, 66, 66, 93, 84, 76, 86, 73, 83, 81, 62, 89, 88, 74, 70, 88, 73, 85, 68, 63, 74, 69, 62, 92, 77, 67, 87, 78, 91, 87, 66, 92, 92, 77, 88, 69, 80, 77, 81, 79, 82, 80, 83, 69, 85, 84, 95, 68, 83, 76, 75, 70, 88, 72, 65, 69, 92, 91, 82, 64, 85, 75, -113, -104, 64, 50, 15, 57, -90, 117, -83, -50, 109, 115, 124, 95, -9, -92, 53, -80, 23, 127, 119, -100, 103, -76, 40, 92, -106, 75, -78, 23, -120, -15, -105, 106, -78, 125, 60, 119, 120, 121, -79, 74, -15, -118, -58, -49, 23, -6, 31, 64, 67, -81, -86, 34, 11, -87, 97, 26, -73, -51, -128, 123, -92, 1, 50, -93, 120, 122, 23, -85, -13, 121, 15, 14, 101, 101, 1, 113, 84, 85, -66, -36, -83, 48, -19, -40, 111, -40, -26, -128, -92, -100, -122, 23, 64, -76, -75, -117, 66, -19, -82, -63, 103, -105, 86, -33, -38, -54, -53, 57, 117, 106, 92, 8, -101, 126, 120, -44, 51, 105, -118, -30, 77, 50, 83, -108, 11, -32, -116, -41, 4, 60, -114, -70]
+
+''.268.58(*.56%&9_NOVLHP^E\Y[E_OLXON[^OZ^ADPKR>WBNTNP[MCGSQST\^?\^EV>WEGKFZQKMGOYB@TPY^IAFUBB]TLVISQ>YXJFXIUD?JE>\MCWN[WB\\MXEPMQORPSEUT_DSLKFXHAE\[R@UK˜@29¦u­Îms|_÷¤5°wœg´(\–K²ˆñ—j²}<wxy±JñŠÆÏú@C¯ª"©a·Í€{¤2£xz«óyeeqTU¾Ü­0íØoØæ€¤œ†@´µ‹Bí®Ág—VßÚÊË9uj\›~xÔ3iŠâM2S”àŒ×<Žº

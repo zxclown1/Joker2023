@@ -20,6 +20,7 @@ fun main(args: Array<String>) {
         addOption("cp", "classpath", true, "Classpath with libraries")
         addOption("t", "timeout", true, "Maximum time for fuzzing in seconds")
         addOption("s", "seed", true, "The source of randomness")
+        addOption("d", "dir", true, "Working directory")
     }
     val parser = DefaultParser().parse(options, args)
     val className = parser.getOptionValue("class")
@@ -28,6 +29,8 @@ fun main(args: Array<String>) {
     val timeout = parser.getOptionValue("timeout")?.toLong() ?: 10L
     val seed = parser.getOptionValue("seed")?.toInt() ?: Random.nextInt()
     val random = Random(seed)
+    val workingDir = parser.getOptionValue("dir")?.toString()
+    Files.createDirectories(Paths.get("$workingDir"));
 
     println("Running: $className.$methodName) with seed = $seed")
     val errors = mutableSetOf<String>()
@@ -51,7 +54,7 @@ fun main(args: Array<String>) {
             if (errors.add(e.targetException::class.qualifiedName!!)) {
                 val errorName = e.targetException::class.simpleName
                 println("New error found: $errorName")
-                val path = Paths.get("report$errorName.txt")
+                val path = Paths.get("$workingDir/report$errorName.txt")
                 Files.write(path, listOf(
                     "${e.targetException.stackTraceToString()}\n",
                     "$inputValuesString\n",

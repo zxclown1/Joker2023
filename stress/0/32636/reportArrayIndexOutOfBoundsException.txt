@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 57 out of bounds for length 57
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [56868544475667567655756746444474485544646846744778686758E]
+
+[56, 53, 54, 56, 54, 56, 53, 52, 52, 52, 55, 53, 54, 54, 55, 53, 54, 55, 54, 53, 53, 55, 53, 54, 55, 52, 54, 52, 52, 52, 52, 55, 52, 52, 56, 53, 53, 52, 52, 54, 52, 54, 56, 52, 54, 55, 52, 52, 55, 55, 56, 54, 56, 54, 55, 53, 56, 69, 66, 70, 65, 72, 66, 65, 71, 70, 67, 71, 70, 68, 65, 68, 69, 66, 70, 67, 68, 66, 71, 71, 68, 68, 65, 70, 66, 66, 67, 65, 68, 65, 69, 72, 70, 68, 68, 67, 65, 71, 68, 66, 72, 70, 71, 68, 68, 68, 71, 69, 66, 65, 71, 67, 66, 68, 68, 71, 68, 69, 70, 67, 70, 67, 65, 68, 69, 66, 67, 67, 72, 68, 66, 71, 69, 69, 70, 66, 69, 70, 71, 67, 66, 67, 68, 65, 70, 72, 71, 66, 65, 65, 66, 67, 68, 67, 70, 66, 71, 66, 66, 70, 65, 67, 68, 70, 69, 71, 67, 67, 68, 70, 66, 65, 68, 72, 65, 69, 67, 71, 66, 66, 65, 65, 67, 69, 68, 69, 66, 65, 71, 72, 65, 72, 66, 70, 70, 69, 71, 68, 67, 71, 71, 65, 71, 68, 72, 72, 66, 71, 71, 70, 71, 69, 66, 72, 70, 68, 71, 65, 68, 68, 66, 68, 72, 67, 67, 9, 23, 79, 113, 59, 51, 84, -82, -87, 114, 100, 126, 117, -59, -53, -84, -13, -114, -124, 59, -19, 16, -78, -48, -62, -75, -74, -37, 110, 110, -99, 82, 66, 120, -102, 88, 79, 45, 68, 117, 1, 27, 112, 30, -39, 42, -5, 26, 120, -62, -25, 85, -14, -96, -71, 55, 119, 6, 72, -55, 110, -114, 40, -22, 110, -36, 1, 92, -15, 86, 127, -113, 60, 53, -106]
+
+856868544475667567655756746444474485544646846744778686758EBFAHBAGFCGFDADEBFCDBGGDDAFBBCADAEHFDDCAGDBHFGDDDGEBAGCBDDGDEFCFCADEBCCHDBGEEFBEFGCBCDAFHGBAABCDCFBGBBFACDFEGCCDFBADHAECGBBAACEDEBAGHAHBFFEGDCGGAGDHHBGGFGEBHFDGADDBDHCC	Oq;3TÆ©rd~u≈À¨ÛéÑ;Ì≤–¬µ∂€nnùRBxöXO-DupŸ*˚x¬ÁUÚ†π7wH…né(Ín‹\ÒVè<5ñ

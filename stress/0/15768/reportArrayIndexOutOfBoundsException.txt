@@ -1,0 +1,19 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [54678E]
+
+[5, 53, 52, 54, 55, 56, 69, 46, 86, 81, 84, 40, 95, 57, 84, 84, 76, 80, 47, 37, 94, 76, 99, 102, 88, 97, 58, 49, 77, 70, 81, 85, 82, 50, 79, 55, 41, 88, 91, 94, 35, 75, 71, 39, 61, 93, 70, 58, 48, 48, 82, 40, 63, 66, 35, 63, 56, 37, 73, 82, 47, 54, 61, 38, 82, 40, 48, 77, 70, 85, 37, 68, 56, 78, 87, 43, 91, 70, 54, 79, 58, 93, 95, 98, 78, 85, 82, 79, 88, 73, 93, 60, 46, 41, 101, 36, 86, 88, 72, 76, 41, 75, 64, 55, 89, 57, 38, 82, 69, 85, 82, 40, 48, 4, 4, 7, 12, 8, 9, 9, 12, 5, 9, 4, 9, 4, 9, 6, 6, 10, 10, 8, 6, 5, 8, 6, 12, 4, 10, 6, 6, 4, 7, 6, 12, 7, 7, 54, 53, 52, 54, 53, 53, 55, 54, 53, 52, 52, 53, 55, 55, 52, 53, 55, 52, 52, 55, 52, 53, 55, 52, 52, 54, 53, 52, 53, 55, 55, 54, 55, 53, 53, 53, 54, 53, 53, 53, 55, 54, 52, 53, 53, 55, 52, 53, 53, 53, 52, 55, 54, 55, 52, 54, 54, 52, 55, 55, 54, 55, 55, 53, 53, 52, 55, 54, 52, 53, 53, 52, 53, 54, 53, 52, 52, 55, 53, 54, 52, 55, 54, 53, 52, 55, 52, 52, 53, 54, 52, 53, 55, 54, 52, 55, 54, -13, 104, -37, -61, -100, 105, -22, 32, 85, 6, -87, -101, 43, -33, 30, -122, -74, 6, -6, 37, 19, 110, 40, -112, 41, -98, 59, 28, -64, 100, -34, -61, 122, 95, -57, -82, 46, 124, -47, -39, -106, -9, -6, 126, 41, 121, 44, -47, 102, 55, 49, -39, 110, 7, 31, -126]
+
+54678E.VQT(_9TTLP/%^LcfXa:1MFQUR2O7)X[^#KG'=]F:00R(?B#?8%IR/6=&R(0MFU%D8NW+[F6O:]_bNUROXI]<.)e$VXHL)K@7Y9&REUR(0					
+
+
+6546557654457745744745744654577675556555764557455547674664776775547645545654475647654744564576476óhÛÃœiê U©›+ß†¶ú%n()ž;ÀdÞÃz_Ç®.|ÑÙ–÷ú~)y,Ñf71Ùn‚

@@ -1,0 +1,21 @@
+java.lang.NumberFormatException: For input string: "34433434."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [534434443443334344344333334434333343333444333434434334434334434333434433434.ĞĞ¤Ğ«Ğ¾Ğ©Ğ‘"Ñ†7L0?ÑĞ¸â•œ"O J'Ğºâ•£DĞ¡â•£"ÑˆÑĞ¸5Ğ±Ñ‹JF#/Ğ¦.â•«Ğ²]
+
+[122, 53, 51, 52, 52, 51, 52, 52, 52, 51, 52, 52, 51, 51, 51, 52, 51, 52, 52, 51, 52, 52, 51, 51, 51, 51, 51, 52, 52, 51, 52, 51, 51, 51, 51, 52, 51, 51, 51, 51, 52, 52, 52, 51, 51, 51, 52, 51, 52, 52, 51, 52, 51, 51, 52, 52, 51, 52, 51, 51, 52, 52, 51, 52, 51, 51, 51, 52, 51, 52, 52, 51, 51, 52, 51, 52, 46, -31, -26, -7, 19, -49, 24, 16, -3, -30, 34, -61, 55, 76, 48, 4, 63, -47, -55, -83, 27, 34, 79, 16, 32, 74, 39, -53, -75, 68, -13, -75, 34, -37, -47, -55, 17, 53, -62, -39, 74, 70, 35, 47, -29, 46, -67, -41, 63, -71, -49, 31, -15, 8, -25, -28, 10, 47, -25, 22, 78, 42, 12, 5, -77, 17, -67, 45, -81, 58, 19, 20, -46, -9, -7, 44, 64, -40, -33, -74, 44, 4, -49, -15, 51, -51, -29, -8, -72, -8, -37, -16, 56, 3, -3, -11, 74, -80, 77, 21, 37, -4, 59, -54, -11, -19, 5, -64, -19, -43, -31, 5, -10, -82, 27, 7, 23, -19, 2, -64, -6, -42, -8, 59, 47, -1, -12, -44, 76, -39, 69, -44, -56, 5, -12, -26, -37, -35, -2, -75, -25, -6, 60, -74, -24, 51, -73, 46, 31, 56, 43, -71, 21, -11, -72, 36, 48, 36, 44, 35, 47, 47, 33, 44, 31, 46, 45, 32, 27, 34, 40, 35, 26, 37, 43, 28, 45, 28, 33, 37, 39, 28, 45, 26, 44, 31, 38, 26, 31, 42, -118, 3, 105, -27, 64, 110, 126, -121, 69, -33, 13, 76, -84, 44, -49, 29, 64, 69, -71, -73, 16, -105, 98, -97, -117, -103, 79, 91, 111, -107, 20, 88, -83, 127]
+
+z534434443443334344344333334434333343333444333434434334434334434333434433434.áæùÏıâ"Ã7L0?ÑÉ­"O J'ËµDóµ"ÛÑÉ5ÂÙJF#/ã.½×?¹Ïñçä
+/çN*³½-¯:Ò÷ù,@Øß¶,Ïñ3Íãø¸øÛğ8ıõJ°M%ü;ÊõíÀíÕáö®íÀúÖø;/ÿôÔLÙEÔÈôæÛİşµçú<¶è3·.8+¹õ¸$0$,#//!,.- "(#%+-!%'-,&*Šiå@n~‡EßL¬,Ï@E¹·—bŸ‹™O[o•X­

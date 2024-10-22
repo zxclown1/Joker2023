@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "67241312."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [52664742665887662654264568786668878376667241312.././2106.]
+
+[56, 53, 50, 54, 54, 52, 55, 52, 50, 54, 54, 53, 56, 56, 55, 54, 54, 50, 54, 53, 52, 50, 54, 52, 53, 54, 56, 55, 56, 54, 54, 54, 56, 56, 55, 56, 51, 55, 54, 54, 54, 55, 50, 52, 49, 51, 49, 50, 46, 46, 47, 46, 47, 50, 49, 48, 54, 46, 54, 50, 53, 50, 53, 50, 50, 52, 46, 50, 52, 48, 46, 46, 52, 53, 49, 48, 50, 51, 48, 52, 50, 47, 47, 50, 51, 49, 48, 52, 54, 49, 54, 51, 53, 47, 53, 51, 51, 50, 51, 52, 53, 53, 50, 51, 53, 54, 46, 48, 51, 48, 54, 52, 52, 52, 48, 52, 49, 52, 50, 53, 53, 52, 46, 50, 53, 53, 53, 50, 53, 53, 46, 54, 52, 53, 53, 50, 51, 51, 48, 48, 47, 50, 50, 47, 53, 46, 49, 54, 51, 47, 50, 54, 49, 51, 50, 51, 51, 50, 47, 51, 51, 48, 50, 50, 54, 52, 46, 46, 50, 53, 54, 48, 50, 50, 46, 50, 48, 51, 48, 46, 47, 52, 52, 54, 47, 49, 54, 47, 46, 50, 51, 48, 51, 51, 47, 46, 51, 51, 49, 46, 46, 53, 53, 54, 54, 54, 52, 52, 53, 53, 51, 51, 54, 52, 47, 54, 46, 46, 53, 47, 54, 52, 47, 50, 49, 46, 46, 54, 50, 54, 52, 50, 46, 53, 46, 47, 47, 52, 54, 48, 54, 48, 50, 46, 50, 47, 46, 47, 52, 51, 50, 53, 48, 51, 49, 47, 46, 48, 46, 48, 46, 53, 48, 53, 54, 51, 49, 50, 54, 49, 51, -25, 109, -99, 92, -22, 93, 27, 53, -108, 111, -116, 19, 111, 82, 103, -52, 110, 119, -54, -55, -85, -7, -13, -88, -56, 36, -63, -81, 113]
+
+852664742665887662654264568786668878376667241312.././2106.62525224.240..451023042//2310461635/533234552356.030644404142554.2555255.645523300/22/5.163/26132332/3302264..256022.2030./446/16/.23033/.331..5566644553364/6..5/64/21..62642.5.//460602.2/./4325031/.0.0.5056312613Ámù\Í]5îoåoRgÃnw …´˘Û®»$¡Øq

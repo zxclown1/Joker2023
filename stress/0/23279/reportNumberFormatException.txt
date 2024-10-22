@@ -1,0 +1,21 @@
+java.lang.NumberFormatException: For input string: "37716562."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [14734678531687166717255774271476837716562.&$!!"2.]
+
+[50, 49, 52, 55, 51, 52, 54, 55, 56, 53, 51, 49, 54, 56, 55, 49, 54, 54, 55, 49, 55, 50, 53, 53, 55, 55, 52, 50, 55, 49, 52, 55, 54, 56, 51, 55, 55, 49, 54, 53, 54, 50, 46, 38, 36, 33, 33, 34, 30, 50, 46, 30, 42, 47, 43, 36, 30, 49, 37, 40, 35, 48, 40, 35, 50, 37, 41, 38, 48, 40, 47, 47, 51, 31, 33, 34, 35, 34, 33, 51, 33, 36, 45, 45, 41, 39, 47, 37, 33, 44, 35, 30, 46, 50, 34, 44, 38, 38, 33, 37, 50, 42, 40, 40, 32, 51, 51, 46, 36, 39, 41, 47, 38, 42, 49, 48, 31, 31, 34, 43, 43, 51, 39, 46, 31, 43, 47, 43, 34, 47, 40, 33, 51, 51, 49, 40, 48, 46, 45, 51, 40, 30, 41, 34, 48, 32, 35, 46, 49, 43, 37, 39, 49, 30, 50, 42, 35, 46, 51, 34, 36, 41, 34, 41, 36, 39, 50, 48, 46, 44, 46, 35, 31, 46, 35, 35, 47, 50, 45, 39, 51, 47, 37, 36, 34, 43, 50, 38, 44, 47, 45, 33, 32, 47, 50, 50, 30, 32, 35, 43, 34, 44, 32, 39, 40, 34, 36, 34, 45, 42, 48, 33, 35, 51, 37, 31, 36, 34, 31, 49, 47, 47, 44, 44, 50, 51, 49, 51, 32, 47, 38, 32, 45, 45, 45, 32, 39, 40, 51, 36, 43, 38, 45, 32, 37, 32, 32, 41, 37, 37, 45, 45, 40, 47, 41, 44, 47, 38, 39, 37, 51, 49, 44, 34, 42, 42, 32, 35, 49, 51, 50, 50, 50, 55, 50, 52, 53, 52, 49, 53, -43, -54, 117, 2, -98, 14, -13, -72, 26, -122, -70, 63, -50, 93, -109, 10, 69, -37, -55, 123]
+
+214734678531687166717255774271476837716562.&$!!"2.*/+$1%(#0(#2%)&0(//3!"#"!3!$--)'/%!,#.2",&&!%2*(( 33.$')/&*10"++3'.+/+"/(!331(0.-3()"0 #.1+%'12*#.3"$)")$'20.,.#.##/2-'3/%$"+2&,/-! /22 #+", '("$"-*0!#3%$"1//,,2313 /& --- '(3$+&- %  )%%--(/),/&'%31,"** #132227245415’ uûÛ∏Ü∫?Œ]ì
+E€…{

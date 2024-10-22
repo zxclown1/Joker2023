@@ -1,0 +1,22 @@
+java.lang.NumberFormatException: For input string: "11333133."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [223313332213221113231333322233111333133.P80UL4\M7YT7]
+
+[51, 50, 50, 51, 51, 49, 51, 51, 51, 50, 50, 49, 51, 50, 50, 49, 49, 49, 51, 50, 51, 49, 51, 51, 51, 51, 50, 50, 50, 51, 51, 49, 49, 49, 51, 51, 51, 49, 51, 51, 46, 80, 56, 48, 85, 76, 52, 92, 77, 55, 89, 84, 55, 59, 50, 56, 55, 57, 75, 69, 81, 59, 85, 94, 64, 70, 91, 90, 54, 85, 83, 81, 93, 91, 84, 88, 86, 54, 73, 54, 72, 92, 75, 65, 81, 57, 69, 69, 61, 48, 73, 89, 57, 59, 51, 51, 49, 49, 50, 50, 50, 50, 51, 51, 50, 50, 51, 49, 51, 51, 50, 49, 49, 51, 50, 49, 50, 49, 51, 49, 51, 49, 50, 50, 50, 51, 50, 50, 50, 49, 49, 49, 51, 49, 51, 51, 51, 51, 49, 50, 49, 50, 51, 51, 50, 50, 51, 49, 50, 49, 50, 50, 51, 51, 49, 49, 51, 51, 50, 50, 49, 49, 50, 51, 51, 49, 51, 51, 49, 51, 51, 50, 49, 51, 51, 50, 50, 49, 51, 50, 49, 51, 51, 49, 51, 49, 51, 50, 51, 51, 50, 49, 49, 51, 51, 51, 49, 49, 50, 49, 51, 51, 49, 51, 51, 50, 49, 51, 49, 51, 49, 49, 50, 49, 50, 51, 51, 49, 50, 50, 50, 50, 49, 51, 49, 50, 51, 49, 51, 50, 51, 51, 51, 50, 51, 51, 51, 50, 51, 49, 49, 50, 50, 50, 51, 49, 50, 51, 50, 49, 50, 51, 51, 51, 49, 51, 50, 49, 50, 50, 49, 51, 51, 49, 49, 51, 50, 50, 50, 51, 49, 49, 49, 49, 51, 49, 50, 51, 50, 50, 49, 49, 49, 51, 51, 51, 51, 10, 106, -119, 126, 88, 61, -79, -57, -27, 10, -93, 16, -32]
+
+3223313332213221113231333322233111333133.P80UL4\M7YT7;2879KEQ;U^@F[Z6USQ][TXV6I6H\KAQ9EE=0IY9;3311222233223133211321213131222322211131333312123322312122331133221123313313321332213213313132332113331121331332131311212331222213123132333233323112223123212333132122133113222311113123221113333
+j‰~X=±Çå
+£à

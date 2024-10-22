@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6295)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [3.]
+
+[1, 51, 46, 46, 56, 63, 63, 64, 62, 52, 65, 47, 64, 48, 69, 66, 65, 62, 63, 62, 45, 49, 60, 56, 48, 62, 60, 48, 54, 57, 45, 69, 54, 52, 64, 56, 66, 53, 55, 58, 61, 53, 58, 63, 53, 53, 60, 56, 66, 60, 51, 57, 62, 69, 53, 55, 60, 62, 68, 57, 64, 60, 47, 59, 71, 48, 70, 65, 53, 61, 63, 56, 65, 64, 57, 69, 49, 68, 56, 56, 61, 57, 68, 50, 64, 55, 63, 54, 67, 65, 46, 48, 51, 70, 57, 68, 56, 51, 49, 70, 66, 46, 63, 58, 60, 56, 61, 49, 45, 54, 50, 59, 61, 55, 68, 61, 61, 62, 56, 47, 65, 65, 51, 48, 46, 54, 56, 59, 56, 50, 54, 71, 69, 71, 53, 68, 64, 71, 59, 52, 50, 68, 60, 45, 70, 66, 50, 51, 48, 68, 52, 62, 66, 67, 51, 67, 67, 57, 84, -93, -78, 22, -76, -90, -6, -99, 48, -22, -6, 108, 89, 32, -101, 49, 55, -30, 47, -12, 121, 81, -80, -60, 22, -118, 103, 81, -114, 61, -47, -75, -17, -115, -58, 72, 22, 45, -32, -111, 9, 75, 29, 58, 2, 13, 63, 3, -113, -42, 89, -102, 5, 66, -115, -41, -14, 34, 17, 2, -42, -51, 109, -7, 75, 100, 39, 38, -27, 102, 72, -75, -65, -30, 29, 105, -101, -40, 33, -119, 44, 62, 6, -95, 4, -123, 83, 44, -6, -5, -57, 96, 53, -127, -15, 119, 84, 24, 14, 1, -93, -80, -125, -58, -11, 125, 6, 41, 86, -58, 42, 92, -89, 11, -102, 85, -20, -105, -70, 8, 20, 2, -104, -119, 34, 28, -45, 19, 42, 28, -5, -63, -105, -80, 15, 116, 104, 19, 55, -13, 54, 110]
+
+3..8??@>4A/@0EBA>?>-1<80><069-E64@8B57:=5:?55<8B<39>E57<>D9@</;G0FA5=?8A@9E1D88=9D2@7?6CA.03F9D831FB.?:<8=1-62;=7D==>8/AA30.68;826GEG5D@G;42D<-FB230D4>BC3CC9T£²´¦ú0êúlY ›17â/ôyQ°ÄŠgQŽ=ÑµïÆH-à‘	K:?ÖYšB×ò"ÖÍmùKd'&åfHµ¿âi›Ø!‰,>¡…S,úûÇ`5ñwT£°ƒÆõ})VÆ*\§šUì—º˜‰"Ó*ûÁ—°th7ó6n

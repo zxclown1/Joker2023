@@ -1,0 +1,21 @@
+java.lang.NumberFormatException: For input string: "11212322."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [1333113213323113212322332233211211223112332111212322.>â–ˆĞ¿â–ŒâŒ¡(Ğ¡â–ŒÑ‡113323]
+
+[67, 49, 51, 51, 51, 49, 49, 51, 50, 49, 51, 51, 50, 51, 49, 49, 51, 50, 49, 50, 51, 50, 50, 51, 51, 50, 50, 51, 51, 50, 49, 49, 50, 49, 49, 50, 50, 51, 49, 49, 50, 51, 51, 50, 49, 49, 49, 50, 49, 50, 51, 50, 50, 46, 62, -115, -48, -114, -101, 40, -13, -114, -34, 49, 49, 51, 51, 50, 51, 49, 50, 50, 50, 49, 51, 49, 51, 51, 51, 50, 50, 51, 49, 51, 49, 50, 51, 51, 51, 49, 51, 50, 51, 49, 51, 49, 51, 49, 51, 49, 51, 49, 49, 49, 49, 51, 51, 51, 49, 49, 50, 49, 49, 51, 50, 50, 49, 49, 51, 49, 51, 50, 49, 50, 50, 50, 50, 49, 49, 49, 51, 51, 50, 50, 50, 49, 51, 50, 49, 50, 51, 50, 49, 49, 50, 50, 49, 50, 51, 50, 49, 49, 49, 51, 49, 50, 49, 50, 51, 50, 50, 50, 49, 49, 49, 50, 50, 51, 50, 51, 49, 49, 49, 51, 50, 50, 50, 51, 50, 51, 49, 50, 51, 49, 50, 50, 51, 51, 50, 50, 49, 49, 49, 51, 51, 50, 49, 51, 49, 50, 49, 51, 51, 49, 49, 51, 50, 51, 51, 50, 50, 49, 50, 50, 49, 51, 49, 51, 51, 26, 13, 31, 43, -3, 8, 35, 16, 41, 9, 46, 25, 11, 34, 23, 28, -2, 32, 30, 10, 21, 16, 32, 32, 31, 24, 18, 25, 18, 17, 27, 32, 45, 26, 44, 39, 20, 27, 4, 30, 1, -1, 1, 40, 1, 41, 24, 26, 13, 3, -3, 25, 3, 40, 43, 29, 33, -122, -127, 103, -56, -83, -70, -119, -54, -101, -88, -126, -114, 14, 17, -127, 44, 96, 94, -25, -50, 112, -89, 103, 72]
+
+C1333113213323113212322332233211211223112332111212322.>Ğ›(óŞ113323122213133322313123331323131313131111333112113221131321222211133222132123211221232111312123222111223231113222323123122332211133213121331132332212213133+ı#)	."ş 
+   -,'ÿ()ı(+!†gÈ­º‰Ê›¨‚,`^çÎp§gH

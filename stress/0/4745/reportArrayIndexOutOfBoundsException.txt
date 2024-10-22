@@ -1,0 +1,17 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 25 out of bounds for length 25
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [213112313232333231111133E]
+
+[24, 50, 49, 51, 49, 49, 50, 51, 49, 51, 50, 51, 50, 51, 51, 51, 50, 51, 49, 49, 49, 49, 49, 51, 51, 69, 58, 72, 72, 64, 61, 61, 60, 61, 56, 63, 74, 71, 64, 75, 77, 56, 59, 77, 62, 70, 77, 75, 55, 71, 72, 69, 56, 61, 58, 60, 75, 76, 72, 57, 75, 75, 71, 57, 71, 69, 57, 66, 58, 61, 74, 64, 59, 74, 70, 56, 61, 76, 74, 60, 67, 65, 71, 74, 74, 67, 77, 72, 68, 68, 75, 77, 67, 61, 59, 55, 63, 72, 72, 55, 57, 65, 66, 56, 59, 71, 71, 57, 55, 55, 57, 67, 66, 72, 75, 69, 76, 63, 57, 69, 70, 75, 69, 74, 65, 75, 55, 70, 69, 55, 67, 66, 57, 70, 68, 63, 58, 60, 57, 62, 67, 73, 60, 67, 74, 64, 65, 62, 66, 66, 74, 61, 76, 56, 56, 66, 60, 67, 74, 73, 72, 77, 67, 59, 73, 73, 75, 63, 67, 59, 73, 67, 70, 71, 72, 61, 68, 70, 65, 59, 58, 74, 77, 71, 63, 68, 63, 63, 66, 60, 77, 61, 55, 75, 70, 59, 64, 77, 67, 68, 65, 70, 76, 74, 76, 73, 71, -66, 9, -104, 97, 97, 112, 3, 43, -124, 64, -115, -125, -112, 69, -102, 104, 12, -37, 77, -107, -16, 10, -57, -11, -75, 7, 108, -68, -60, -68, -7, -119, -126, 65, -47, 59, -112, -105, 45, -29, -28, 88, 73, -10, -112, 115, -63, -7, 45, -82, 114, -64, -79, -115, -20, 80, -64, 109, 68, 20, -126, 86, 18, 61, -13, 14, -2, 20, 4, -104, -117, 73, -93, -84, 105, -25, -31, -88, 1, 67, -92, 77, -83, -74, 7, -16, -35, 114, 94, 55, -7, -22, 14]
+
+213112313232333231111133E:HH@==<=8?JG@KM8;M>FMK7GHE8=:<KLH9KKG9GE9B:=J@;JF8=LJ<CAGJJCMHDDKMC=;7?HH79AB8;GG9779CBHKEL?9EFKEJAK7FE7CB9FD?:<9>CI<CJ@A>BBJ=L88B<CJIHMC;IIK?C;ICFGH=DFA;:JMG?D??B<M=7KF;@MCDAFLJLIG¾	˜aap+„@ƒEšhÛM•ð
+Çõµl¼Ä¼ù‰‚AÑ;—-ãäXIösÁù-®rÀ±ìPÀmD‚V=óþ˜‹I£¬içá¨C¤M­¶ðÝr^7ùê

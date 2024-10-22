@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "88887881."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [78878778887878888788787777877888788887881.$5)*5&2#22#"=#"]
+
+[56, 55, 56, 56, 55, 56, 55, 55, 56, 56, 56, 55, 56, 55, 56, 56, 56, 56, 55, 56, 56, 55, 56, 55, 55, 55, 55, 56, 55, 55, 56, 56, 56, 55, 56, 56, 56, 56, 55, 56, 56, 49, 46, 36, 53, 41, 42, 53, 38, 50, 35, 50, 50, 35, 34, 61, 35, 34, 61, 44, 44, 51, 47, 45, 48, 39, 43, 40, 49, 48, 60, 51, 48, 42, 55, 55, 52, 54, 38, 45, 49, 38, 36, 57, 43, 34, 36, 51, 36, 51, 38, 46, 53, 37, 59, 42, 45, 45, 61, 59, 59, 57, 38, 57, 51, 61, 46, 46, 61, 52, 34, 41, 47, 43, 52, 41, 48, 59, 60, 61, 61, 45, 49, 42, 55, 56, 55, 55, 55, 55, 56, 56, 56, 55, 56, 56, 55, 56, 55, 56, 56, 55, 56, 55, 56, 55, 55, 56, 55, 55, 56, 55, 55, 55, 56, 55, 56, 55, 55, 56, 56, 55, 55, 55, 56, 56, 56, 55, 56, 55, 55, 55, 56, 55, 56, 56, 55, 55, 55, 56, 56, 56, 56, 56, 55, 56, 55, 55, 55, 56, 56, 55, 55, 55, 55, 55, 55, 56, 56, 55, 55, 56, 56, 55, 56, 56, 56, 55, 56, 55, 56, 56, 56, 55, 56, 55, 55, 56, 56, 56, 56, 56, 56, 55, 55, 55, 55, 55, 55, 56, 56, 56, 56, 56, 56, 55, 55, 55, 55, 55, 55, 56, 55, 56, 56, 56, 56, 55, 56, 56, 56, 56, 56, 56, 56, 55, 56, 56, 56, 55, 55, 56, 56, 55, 55, 55, 55, 55, 56, 56, 56, 56, 56, 55, 56, 56, 55, 55, 56, 56, 56, -77, -11, -85, -128, -71, -89, -80, 32, 126, 104, 14, 115, -27, -14, 19, -124, -74, -65, -37]
+
+878878778887878888788787777877888788887881.$5)*5&2#22#"=#"=,,3/-0'+(10<30*7746&-1&$9+"$3$3&.5%;*--=;;9&93=..=4")/+4)0;<==-1*7877778887887878878787787787778787788777888787778788777888887877788777777887788788878788878778888887777778888887777778788887888888878887788777778888878877888³õ«€¹§° ~hsåò„¶¿Û

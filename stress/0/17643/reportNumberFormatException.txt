@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "52752673."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [77367455223476562234545434242646227364552752673.'%1]
+
+[51, 55, 55, 51, 54, 55, 52, 53, 53, 50, 50, 51, 52, 55, 54, 53, 54, 50, 50, 51, 52, 53, 52, 53, 52, 51, 52, 50, 52, 50, 54, 52, 54, 50, 50, 55, 51, 54, 52, 53, 53, 50, 55, 53, 50, 54, 55, 51, 46, 39, 37, 28, 49, 30, 52, 40, 37, 34, 26, 29, 50, 27, 51, 53, 50, 51, 51, 52, 54, 50, 52, 55, 51, 55, 52, 55, 55, 51, 53, 51, 55, 50, 51, 53, 53, 50, 54, 52, 51, 54, 54, 51, 51, 52, 50, 51, 52, 55, 53, 53, 51, 51, 52, 55, 50, 52, 54, 52, 52, 50, 52, 52, 54, 51, 51, 54, 54, 53, 54, 51, 50, 55, 55, 50, 55, 53, 51, 55, 51, 50, 51, 51, 53, 54, 52, 55, 53, 52, 53, 55, 54, 55, 51, 51, 53, 51, 51, 55, 55, 51, 50, 50, 54, 55, 52, 50, 54, 52, 50, 54, 50, 52, 52, 55, 55, 50, 52, 55, 53, 50, 55, 53, 52, 50, 54, 52, 54, 55, 53, 51, 55, 52, 52, 52, 50, 52, 52, 51, 50, 54, 51, 52, 51, 50, 51, 52, 50, 54, 51, 55, 50, 55, 52, 50, 55, 55, 51, 50, 55, 50, 51, 55, 52, 54, 50, 50, 50, 54, 53, 51, 52, 53, 51, 52, 50, 54, 50, 55, 55, 53, 51, 55, 54, 52, 51, 50, 55, 52, 55, 53, 52, 54, 54, 52, 52, 53, 55, 52, 52, 53, 52, 53, 52, 54, 50, 54, 50, 50, 50, 52, 52, 53, 51, 50, 55, 54, 52, 51, 53, 55, 55, 51, 51, 55, 54, 53, 52, 50, 54, 50, 50, 54, 51, 53, 52, 55, 50, 53, 55, 55, 50, 52, 52, 50, 53, -93, 113, -62, 32, -122]
+
+377367455223476562234545434242646227364552752673.'%14(%"235233462473747735372355264366334234755334724644244633665632772753732335647545767335337732267426426244772475275426467537444244326343234263727427732723746222653453426277537643274754664457445454626222445327643577337654262263547257724425£qÂ †

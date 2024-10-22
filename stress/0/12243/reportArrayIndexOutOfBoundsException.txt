@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 56 out of bounds for length 56
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6295)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [8391919486258288595485462131874118529387855363764442982.]
+
+[55, 56, 51, 57, 49, 57, 49, 57, 52, 56, 54, 50, 53, 56, 50, 56, 56, 53, 57, 53, 52, 56, 53, 52, 54, 50, 49, 51, 49, 56, 55, 52, 49, 49, 56, 53, 50, 57, 51, 56, 55, 56, 53, 53, 51, 54, 51, 55, 54, 52, 52, 52, 50, 57, 56, 50, 46, 51, 67, 65, 69, 69, 46, 78, 80, 40, 77, 86, 59, 46, 82, 78, 70, 81, 44, 78, 70, 55, 76, 76, 87, 64, 73, 56, 84, 87, 81, 60, 50, 59, 40, 84, 85, 70, 83, 43, 62, 77, 83, 60, 63, 48, 84, 52, 88, 45, 53, 86, 38, 52, 54, 83, 73, 83, 77, 75, 75, 65, 42, 48, 68, 82, 54, 59, 49, 70, 38, 54, 60, 61, 81, 58, 82, 78, 46, 72, 70, 68, 87, 54, 40, 45, 78, 44, 40, 50, 75, 74, 70, 57, 57, 62, 43, 63, 56, 50, 88, 83, 53, 78, 65, 56, 56, 66, 58, 47, 71, 70, 71, 71, 70, 70, 71, 71, 71, 70, 71, 70, 71, 70, 71, 71, 71, 71, 70, 71, 70, 70, 71, 71, 70, 70, 70, 70, 71, 71, 70, 70, 71, 70, 71, 70, 71, 70, 70, 70, 71, 70, 70, 71, 71, 71, 71, 70, 70, 71, 70, 70, 70, 71, 71, 71, 70, 71, 71, 71, 71, 71, 71, 71, 70, 71, 70, 70, -16, 104, -11, 26, 116, -61, 83, 55, 99, -121, -92, 114, 92, -82, 115, 48, -95, -127, -110, -91, -105, 93, -50, -125, 127, 59, 15, 58, -127, -118, -5, -64, -92, 24, -76, 2, 65, 40, 41, -87, -117, 64, -55, 52, 108, -102, 120, 53, 16, -106, -30, 106, -79, 13, -19, 122, 23, 127, 24, 117, -78, 70, 122, -5, -66, -8]
+
+78391919486258288595485462131874118529387855363764442982.3CAEE.NP(MV;.RNFQ,NF7LLW@I8TWQ<2;(TUFS+>MS<?0T4X-5V&46SISMKKA*0DR6;1F&6<=Q:RN.HFDW6(-N,(2KJF99>+?82XS5NA88B:/GFGGFFGGGFGFGFGGGGFGFFGGFFFFGGFFGFGFGFFFGFFGGGGFFGFFFGGGFGGGGGGGFGFFhıt√S7cá§r\Æs0°Åí•ó]ŒÉ;:Åä˚¿§¥A()©ã@…4löx5ñ‚j±Ìzu≤Fz˚æ¯

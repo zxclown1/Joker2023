@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [9e]
+
+[1, 57, 101, 101, 107, 98, 117, 90, 112, 87, 120, 117, 110, 101, 107, 81, 113, 119, 102, 105, 108, 105, 91, 89, 107, 82, 83, 88, 84, 82, 97, 100, 95, 121, 110, 108, 98, 105, 105, 93, 109, 104, 88, 96, 95, 85, 112, 80, 116, 82, 117, 119, 101, 88, 96, 85, 104, 109, 98, 112, 108, 106, 115, 119, 96, 87, 111, 120, 104, 117, 95, 112, 107, 85, 95, 104, 87, 110, 90, 98, 80, 103, 88, 120, 119, 83, 106, 89, 116, 83, 87, 89, 92, 103, 90, 87, 101, 99, 120, 96, 116, 108, 100, 109, 116, 112, 83, 84, 98, 95, 117, 106, 107, 99, 113, 85, 110, 119, 113, 86, 85, 92, 119, 80, 117, 95, 96, 88, 106, 100, 114, 92, 110, 83, 120, 79, 114, 114, 80, 79, 114, 86, 115, 103, 101, 121, 94, 97, 101, 102, 81, 88, 109, 111, 114, 79, 110, 119, 83, 94, 83, 103, 116, 79, 99, 86, 87, 95, 88, 103, 117, 117, 81, 97, 107, 109, 84, 101, 112, 92, 102, 99, 79, 85, 83, 81, 121, 85, 118, 118, 86, 80, 118, 95, 111, 118, 96, 100, 105, 104, 116, 84, 97, 82, 94, 88, 79, 114, 117, 95, 91, 113, 84, 104, 95, 82, 86, 91, 101, 90, 96, 85, 115, 107, 87, 110, 85, 86, 96, 107, 121, 84, 85, 103, 113, 97, 117, 92, 109, 109, 121, 89, 86, 87, 121, 120, 102, 93, 113, 93, 99, 95, 118, 103, 108, 108, 83, 80, 114, 91, 91, 108, 111, 79, 120, 104, 79, 96, 109, 90, 97, 94, 118, 108, 99, 90, 87, 115, 105, 117, 106, 2, 18, 18, 18, 55, 32, 28, 52, 28, -16, 64, 26, 1, 32, 13, 69, -1, -16, -81]
+
+9eekbuZpWxunekQqwfili[YkRSXTRad_ynlbii]mhX`_UpPtRuweX`Uhmbpljsw`Woxhu_pkU_hWnZbPgXxwSjYtSWY\gZWecx`tldmtpSTb_ujkcqUnwqVU\wPu_`Xjdr\nSxOrrPOrVsgey^aefQXmorOnwS^SgtOcVW_XguuQakmTep\fcOUSQyUvvVPv_ov`dihtTaR^XOru_[qTh_RV[eZ`UskWnUV`kyTUgqau\mmyYVWyxf]q]c_vgllSPr[[loOxhO`mZa^vlcZWsiuj7 4ð@ Eÿð¯

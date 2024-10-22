@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 56 out of bounds for length 56
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6295)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [8787877877788787787787878877778887887778878777788777877.]
+
+[55, 56, 55, 56, 55, 56, 55, 55, 56, 55, 55, 55, 56, 56, 55, 56, 55, 55, 56, 55, 55, 56, 55, 56, 55, 56, 56, 55, 55, 55, 55, 56, 56, 56, 55, 56, 56, 55, 55, 55, 56, 56, 55, 56, 55, 55, 55, 55, 56, 56, 55, 55, 55, 56, 55, 55, 46, 38, 73, 21, 64, 59, 44, 73, 13, 51, 12, 20, 61, 30, 47, 34, 17, 26, 59, 68, 74, 41, 47, 19, 17, 71, 17, 55, 50, 69, 17, 55, 56, 55, 56, 55, 56, 56, 55, 55, 55, 55, 55, 56, 55, 56, 56, 56, 55, 55, 56, 56, 56, 56, 55, 55, 55, 55, 55, 55, 56, 56, 55, 56, 56, 56, 56, 55, 56, 56, 56, 56, 56, 55, 55, 56, 56, 56, 56, 55, 55, 55, 56, 56, 56, 55, 56, 55, 56, 55, 55, 55, 55, 55, 56, 55, 56, 56, 56, 56, 55, 56, 55, 55, 55, 56, 56, 56, 56, 55, 56, 55, 55, 56, 56, 55, 56, 56, 56, 56, 55, 56, 55, 56, 55, 55, 56, 55, 55, 55, 55, 74, 99, 69, 78, 78, 100, 74, 109, 79, 75, 68, 75, 86, 63, 81, 101, 72, 107, 97, 103, 105, 94, 64, 65, 82, 93, 84, 97, 105, 61, 81, 81, 68, 103, 108, 67, 67, 63, 103, 89, 79, 78, 66, 106, 93, 66, 109, 101, 73, 107, 101, 80, 64, 107, 108, 75, 73, 89, 66, 81, 86, 79, 61, 99, 106, 67, 79, 75, 107, 67, 92, 75, 86, -98, 103, -21, -20, -106, 30, -95, -19, -36, 66, -91, 91, 96, 68, 40, 93, -55, 30, -70, 50, -53, 35, -97, -80, 58, -97, -91, -43, 41, -106, -9, 54, 72, -62, -54, -68, -52, -5, 58, 52]
+
+78787877877788787787787878877778887887778878777788777877.&I@;,I3=/";DJ)/G72E7878788777778788877888877777788788887888887788887778887878777778788887877788887877887888878787787777JcENNdJmOKDKV?QeHkagi^@AR]Tai=QQDglCC?gYONBj]BmeIkeP@klKIYBQVO=cjCOKkC\KVžgëì–¡íÜB¥[`D(]Éº2Ë#Ÿ°:Ÿ¥Õ)–÷6HÂÊ¼Ìû:4

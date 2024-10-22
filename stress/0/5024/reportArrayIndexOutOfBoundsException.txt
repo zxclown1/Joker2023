@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [4e]
+
+[1, 52, 101, 87, 101, 103, 52, 63, 88, 94, 63, 101, 90, 60, 63, 73, 83, 95, 70, 91, 53, 63, 90, 64, 102, 69, 80, 64, 55, 103, 56, 80, 78, 96, 55, 83, 56, 55, 102, 85, 86, 66, 68, 73, 80, 70, 72, 71, 82, 78, 77, 81, 62, 58, 62, 64, 65, 103, 85, 99, 75, 64, 91, 99, 88, 82, 82, 69, 83, 94, 80, 62, 92, 62, 72, 78, 56, 78, 95, 97, 52, 88, 58, 96, 54, 86, 90, 100, 82, 72, 82, 59, 91, 62, 66, 75, 58, 98, 86, 57, 103, 74, 71, 98, 90, 96, 86, 97, 87, 56, 88, 64, 93, 53, 99, 69, 69, 75, 90, 54, 79, 70, 76, 53, 84, 87, 80, 66, 65, 56, 69, 76, 59, 91, 85, 86, 97, 64, 58, 86, 80, 91, 87, 57, 84, 103, 67, 99, 62, 89, 98, 86, 102, 69, 83, 66, 83, 84, 100, 76, 73, 87, 74, 70, 52, 64, 65, 100, 67, 96, 86, 101, 61, 85, 62, 62, 61, 94, 69, 96, 102, 79, 90, 66, 59, 61, 53, 93, 85, 99, 57, 90, 62, 52, 99, 79, 74, 60, 81, 78, 86, 58, 78, 101, 78, 87, 65, 75, 94, 97, 70, 61, 65, 94, 64, 77, 67, 57, 66, 92, -70, -104, 16, -7, 89, 75, 16, -111, 36, 75, 114, 48, 98, -18, 11, 79, -80, 34, -125, -83, -26, -25, 104, -54, 91, -68, -96, 57, 103, 14, -100, 77, -116, -53, -102, -105, -113, -115, -114, -93, 13, 85, 81, -84, -99, -1, -113, -98, -106, -3, -122, 84, -97, -77, -19, 99, -41, -14, 22, -124, -42, -24, -60, -128, 65, 34, -108, 33, -3, -112, -20, 35, 122, 59, 19, -62, 93, 110, -106, -55]
+
+4eWeg4?X^?eZ<?IS_F[5?Z@fEP@7g8PN`7S87fUVBDIPFHGRNMQ>:>@AgUcK@[cXRRES^P>\>HN8N_a4X:`6VZdRHR;[>BK:bV9gJGbZ`VaW8X@]5cEEKZ6OFL5TWPBA8EL;[UVa@:VP[W9TgCc>YbVfESBSTdLIWJF4@AdC`Ve=U>>=^E`fOZB;=5]Uc9Z>4cOJ<QNV:NeNWAK^aF=A^@MC9B\º˜ùYK‘$Kr0bîO°"ƒ­æçhÊ[¼ 9gœMŒËš—Ž£UQ¬ÿž–ý†TŸ³íc×ò„ÖèÄ€A"”!ýì#z;Â]n–É

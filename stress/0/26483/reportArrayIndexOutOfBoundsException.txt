@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [7e]
+
+[1, 55, 101, 99, 99, 88, 90, 97, 92, 101, 100, 99, 93, 98, 100, 93, 90, 97, 95, 96, 93, 90, 89, 88, 89, 92, 93, 98, 101, 100, 94, 92, 91, 92, 92, 100, 88, 97, 101, 93, 94, 97, 90, 96, 95, 97, 97, 92, 89, 99, 89, 99, 93, 100, 98, 95, 94, 96, 91, 100, 91, 96, 95, 93, 91, 101, 101, 89, 96, 99, 98, 94, 88, 94, 92, 92, 88, 88, 97, 91, 89, 88, 88, 98, 96, 98, 101, 93, 93, 92, 94, 100, 89, 96, 101, 95, 98, 96, 91, 95, 98, 89, 91, 90, 96, 97, 91, 101, 92, 95, 90, 100, 94, 100, 98, 93, 91, 97, 88, 89, 99, 91, 99, 99, 101, 94, 90, 91, 99, 100, 98, 97, 100, 89, 90, 101, 97, 98, 97, 96, 100, 95, 88, 97, 90, 88, 89, 97, 98, 90, 88, 91, 95, 101, 94, 89, 96, 89, 95, 88, 94, 88, 89, 91, 101, 91, 90, 101, 89, 100, 96, 95, 99, 88, 95, 97, 96, 97, 100, 92, 97, 101, 91, 98, 101, 99, 92, 100, 97, 97, 94, 92, 101, 96, 93, 88, 94, 98, 95, 96, 98, 98, 90, 88, 93, 95, 100, 97, 90, 90, 96, 97, 91, 96, 89, 96, 94, 99, 92, 99, 89, 100, 91, 96, 94, 96, 99, 98, 100, 49, 56, 50, 59, 53, 52, 45, 59, 46, 45, 59, 60, 45, 52, 48, 57, 57, 57, 51, 48, 53, 51, 46, 58, 58, 47, 58, 59, 60, 51, 49, 50, 51, 50, 53, 52, 45, 49, 50, 45, 52, 51, 47, 52, 49, 58, 51, 60, 57, -66, 61, 72, -27, 11, 97, -1, -21, 114, 72, 14, -76, 32, -118, 30, 37, 19, 40, -14, -121, -75, 88]
+
+7eccXZa\edc]bd]Za_`]ZYXY\]bed^\[\\dXae]^aZ`_aa\YcYc]db_^`[d[`_][eeY`cb^X^\\XXa[YXXb`be]]\^dY`e_b`[_bY[Z`a[e\_Zd^db][aXYc[cce^Z[cdbadYZeaba`d_XaZXYabZX[_e^Y`Y_X^XY[e[ZeYd`_cX_a`ad\ae[bec\daa^\e`]X^b_`bbZX]_daZZ`a[`Y`^c\cYd[`^`cbd182;54-;.-;<-409993053.::/:;<3123254-12-43/41:3<9¾=HåaÿërH´ Š%(ò‡µX

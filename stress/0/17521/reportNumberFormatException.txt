@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "87677699."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [697988896987967897798996776998776876987677699.,,,../,./-]
+
+[55, 54, 57, 55, 57, 56, 56, 56, 57, 54, 57, 56, 55, 57, 54, 55, 56, 57, 55, 55, 57, 56, 57, 57, 54, 55, 55, 54, 57, 57, 56, 55, 55, 54, 56, 55, 54, 57, 56, 55, 54, 55, 55, 54, 57, 57, 46, 44, 44, 44, 46, 46, 47, 44, 46, 47, 45, 44, 46, 47, 46, 47, 46, 46, 45, 46, 45, 47, 47, 47, 45, 45, 47, 44, 44, 46, 46, 47, 44, 45, 46, 44, 47, 45, 45, 46, 46, 47, 45, 45, 46, 47, 46, 47, 44, 45, 45, 44, 47, 44, 45, 44, 44, 45, 47, 47, 47, 44, 45, 44, 47, 45, 47, 44, 46, 44, 47, 47, 45, 46, 45, 47, 46, 44, 46, 46, 45, 47, 47, 46, 45, 46, 46, 45, 46, 44, 47, 46, 46, 47, 45, 44, 46, 46, 44, 45, 45, 47, 44, 44, 47, 44, 46, 44, 45, 45, 45, 45, 45, 44, 45, 47, 45, 45, 44, 45, 47, 45, 47, 44, 46, 47, 44, 44, 46, 44, 45, 45, 44, 47, 46, 46, 45, 44, 45, 47, 44, 47, 45, 45, 45, 45, 47, 47, 46, 47, 46, 45, 46, 45, 47, 47, 44, 46, 45, 44, 46, 46, 45, 46, 47, 47, 46, 47, 47, 44, 47, 44, 44, 44, 47, 47, 44, 47, 45, 44, 45, 45, 45, 44, 47, 47, 45, 46, 45, 46, 46, 47, 46, 44, 46, 44, 46, 47, 46, 44, 47, 44, 47, 46, 46, 47, 47, 46, 47, 46, 44, 45, 46, 47, 44, 45, 44, 45, 45, 46, 47, 44, 45, 46, 46, 46, 47, 45, 47, 44, 46, 45, 44, 45, 47, 46, 45, 46, 46, 45, 46, 46, -95, -112, -29, 106, 13, 64, -30, -18, 23, 4, -67, -24]
+
+7697988896987967897798996776998776876987677699.,,,../,./-,././..-.-///--/,,../,-.,/--../--././,--,/,-,,-///,-,/-/,.,//-.-/.,..-//.-..-.,/../-,..,--/,,/,.,-----,-/--,-/-/,./,,.,--,/..-,-/,/----//./.-.-//,.-,..-.//.//,/,,,//,/-,---,//-.-../.,.,./.,/,/..//./.,-./,-,--./,-.../-/,.-,-/.-..-..°ê„j@‚ÓΩË

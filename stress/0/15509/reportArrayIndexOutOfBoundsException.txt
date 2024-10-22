@@ -1,0 +1,15 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 49 out of bounds for length 49
+	at com.alibaba.fastjson2.JSONReaderASCII.readString(JSONReaderASCII.java:1556)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:280)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [',H924;W]J]MJV\RZX\R^_]Y_\\RRM^TPW]JQYVZY_XRZMT\]
+
+[48, 39, 44, 72, 57, 50, 52, 20, 59, 87, 93, 74, 93, 77, 74, 86, 92, 82, 90, 88, 92, 82, 94, 95, 93, 89, 95, 92, 92, 82, 82, 77, 94, 84, 80, 87, 93, 74, 81, 89, 86, 90, 89, 95, 88, 82, 90, 77, 84, 92, 78, 84, 91, 85, 85, 95, 89, 90, 84, 75, 93, 90, 77, 80, 80, 89, 87, 78, 84, 92, 86, 95, 80, 77, 83, 74, 95, 80, 76, 92, 93, 73, 84, 73, 86, 80, 85, 82, 75, 84, 83, 77, 81, 88, 94, 92, 73, 80, 87, 74, 76, 80, 82, 75, 81, 79, 92, 74, 95, 87, 74, 85, 78, 81, 78, 91, 86, 92, 84, 95, 80, 78, 86, 82, 94, 73, 79, 76, 88, 73, 82, 73, 90, 75, 91, 93, 88, 78, 91, 77, 73, 87, 74, 79, 90, 75, 81, 79, 78, 76, 90, 91, 76, 84, 82, 83, 83, 74, 94, 89, 95, 81, 87, 94, 73, 89, 77, 84, 77, 91, 84, 51, 45, 37, 37, 68, 59, 50, 26, 66, 70, 31, 36, 33, 57, 23, 23, 64, 49, 55, 72, 22, 29, 28, 51, 42, 33, 62, 66, 48, 22, 21, 32, 42, 59, 67, 20, 51, 60, 24, 34, 72, 17, 72, 14, 57, 33, 14, 58, 45, 15, 21, 71, 20, 52, 69, 48, 17, 53, 41, 21, 69, 47, 67, 29, 52, 30, 65, 46, 32, 42, 68, 39, 55, 15, 25, 40, 63, 45, 29, 20, 64, 56, 64, 48, 66, 39, 53, 19, 16, 8, 91, 43, 33, -10, -68, 102, -32, 25, 112, -5, -60, 116, -25, 108, 56, 6, 96, 117, 118, -12, 7, 21, 47, 37, 66, -15, -114, -84, 104, -95, -39, -108, -67, 70, 67, -19, 44, 39, 95]
+
+0',H924;W]J]MJV\RZX\R^_]Y_\\RRM^TPW]JQYVZY_XRZMT\NT[UU_YZTK]ZMPPYWNT\V_PMSJ_PL\]ITIVPURKTSMQX^\IPWJLPRKQO\J_WJUNQN[V\T_PNVR^IOLXIRIZK[]XN[MIWJOZKQONLZ[LTRSSJ^Y_QW^IYMTM[T3-%%D;2BF$!9@17H3*!>B0 *;C3<"HH9!:-G4E05)E/C4A. *D'7(?-@8@0B'5[+!ö¼fàpûÄtçl8`uvô/%BñŽ¬h¡Ù”½FCí,'_

@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [1e]
+
+[1, 49, 101, 120, 108, 105, 120, 115, 106, 98, 108, 105, 122, 120, 115, 100, 99, 122, 116, 119, 102, 103, 101, 121, 109, 113, 100, 98, 108, 102, 114, 115, 104, 108, 107, 111, 121, 109, 113, 110, 101, 106, 114, 106, 120, 98, 99, 117, 111, 110, 115, 98, 97, 101, 99, 117, 109, 98, 114, 122, 123, 101, 98, 113, 98, 122, 118, 123, 102, 123, 105, 102, 122, 117, 118, 115, 110, 108, 118, 123, 107, 118, 122, 110, 101, 98, 100, 109, 113, 99, 103, 113, 100, 111, 113, 113, 100, 101, 104, 117, 105, 112, 108, 111, 108, 109, 112, 98, 106, 98, 117, 109, 119, 107, 103, 120, 119, 105, 114, 102, 101, 122, 112, 121, 123, 113, 113, 108, 105, 107, 100, 108, 116, 98, 112, 102, 108, 109, 122, 105, 118, 110, 119, 101, 116, 106, 113, 110, 104, 120, 113, 113, 118, 121, 101, 109, 108, 100, 111, 106, 119, 100, 105, 113, 122, 123, 107, 116, 119, 107, 113, 119, 121, 120, 104, 107, 122, 119, 109, 119, 117, 113, 119, 123, 122, 102, 97, 113, 105, 103, 103, 102, 114, 98, 101, 110, 115, 121, 97, 119, 119, 118, 99, 119, 97, 109, 110, 97, 118, 99, 114, 114, 108, 121, 123, 117, 114, 105, 114, 121, 95, -3, -5, -69, -52, -58, -121, -48, -80, -117, 109, -119, -105, -127, 75, -44, -86, 125, 20, 7, -58, -67, -63, 16, -70, -91, 19, 25, 121, -80, -62, 64, 21, 68, 23, 54, 32, 7, -109, 76, -108, 48, 73, -111, -53, 107, 74, -125, -58, -49, 100, 5, 12, -85, 55, -75, 57, -83, -55, 96, 87, -66, -13, 121, 124, -54, -4, -111, -98, 108, 27, -31, 25, 16, -29, 115, -58, -126, -33, 100]
+
+1exlixsjblizxsdcztwfgeymqdblfrshlkoymqnejrjxbcuonsbaecumbrz{ebqbzv{f{ifzuvsnlv{kvznebdmqcgqdoqqdehuiplolmpbjbumwkgxwirfezpy{qqlikdltbpflmzivnwetjqnhxqqvyemldojwdiqz{ktwkqwyxhkzwmwuqw{zfaqiggfrbensyawwvcwamnavcrrly{uriry_˝˚ªÃ∆á–∞ãmâóÅK‘™}∆Ω¡∫•y∞¬@D6 ìLî0IëÀkJÉ∆œd´7µ9≠…`WæÛy| ¸ëûl·„s∆Çﬂd

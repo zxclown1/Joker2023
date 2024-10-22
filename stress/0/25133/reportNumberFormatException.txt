@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "71471117."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [76174566372427766463531244576331514776337534262637343355445216251762616243163755265611465325273736154123616771655432214462653162244644643751542255225442246226535133664717715772665713467646612673125335443246662467571471117.')3-162!$.03%-7:.21(=&2/]
+
+[-7, 55, 54, 49, 55, 52, 53, 54, 54, 51, 55, 50, 52, 50, 55, 55, 54, 54, 52, 54, 51, 53, 51, 49, 50, 52, 52, 53, 55, 54, 51, 51, 49, 53, 49, 52, 55, 55, 54, 51, 51, 55, 53, 51, 52, 50, 54, 50, 54, 51, 55, 51, 52, 51, 51, 53, 53, 52, 52, 53, 50, 49, 54, 50, 53, 49, 55, 54, 50, 54, 49, 54, 50, 52, 51, 49, 54, 51, 55, 53, 53, 50, 54, 53, 54, 49, 49, 52, 54, 53, 51, 50, 53, 50, 55, 51, 55, 51, 54, 49, 53, 52, 49, 50, 51, 54, 49, 54, 55, 55, 49, 54, 53, 53, 52, 51, 50, 50, 49, 52, 52, 54, 50, 54, 53, 51, 49, 54, 50, 50, 52, 52, 54, 52, 52, 54, 52, 51, 55, 53, 49, 53, 52, 50, 50, 53, 53, 50, 50, 53, 52, 52, 50, 50, 52, 54, 50, 50, 54, 53, 51, 53, 49, 51, 51, 54, 54, 52, 55, 49, 55, 55, 49, 53, 55, 55, 50, 54, 54, 53, 55, 49, 51, 52, 54, 55, 54, 52, 54, 54, 49, 50, 54, 55, 51, 49, 50, 53, 51, 51, 53, 52, 52, 51, 50, 52, 54, 54, 54, 50, 52, 54, 55, 53, 55, 49, 52, 55, 49, 49, 49, 55, 46, 30, 39, 41, 51, 45, 49, 54, 50, 33, 36, 25, 46, 48, 51, 37, 45, 55, 58, 27, 46, 50, 30, 49, 40, 61, 38, 50, 47, 28, 33, 56, 41, 49, 52, 34, 56, 51, 43, 56, 44, 61, 45, 57, 56, 50, 38, 53, 52, 26, 40, 26, 30, 53, 25, 25, 52, 52, -30, -118, 33, -123, -75, 18, -113, 32, -78, 29, 86, 29, 75, -63, 1, 11, 26, -103, 126, -33]
+
+˘76174566372427766463531244576331514776337534262637343355445216251762616243163755265611465325273736154123616771655432214462653162244644643751542255225442246226535133664717715772665713467646612673125335443246662467571471117.')3-162!$.03%-7:.21(=&2/!8)14"83+8,=-982&54(544‚ä!Öµè ≤VK¡ô~ﬂ

@@ -1,0 +1,23 @@
+java.lang.NumberFormatException: For input string: "47746588."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [0000044648646447887466548874566448486676446464477646745784766745447746588.:#?8?.491%+"4>65
+(%&3+	$)3=	47477548854447586764845457465667586878756566755884767776747856846684446548578455885557755566647]
+
+[-46, 48, 48, 48, 48, 48, 52, 52, 54, 52, 56, 54, 52, 54, 52, 52, 55, 56, 56, 55, 52, 54, 54, 53, 52, 56, 56, 55, 52, 53, 54, 54, 52, 52, 56, 52, 56, 54, 54, 55, 54, 52, 52, 54, 52, 54, 52, 52, 55, 55, 54, 52, 54, 55, 52, 53, 55, 56, 52, 55, 54, 54, 55, 52, 53, 52, 52, 55, 55, 52, 54, 53, 56, 56, 46, 58, 35, 29, 8, 63, 14, 56, 63, 46, 52, 57, 31, 49, 37, 22, 43, 13, 7, 34, 31, 52, 62, 54, 53, 23, 6, 10, 40, 37, 38, 51, 43, 9, 16, 36, 19, 28, 41, 12, 51, 61, 9, 52, 55, 52, 55, 55, 53, 52, 56, 56, 53, 52, 52, 52, 55, 53, 56, 54, 55, 54, 52, 56, 52, 53, 52, 53, 55, 52, 54, 53, 54, 54, 55, 53, 56, 54, 56, 55, 56, 55, 53, 54, 53, 54, 54, 55, 53, 53, 56, 56, 52, 55, 54, 55, 55, 55, 54, 55, 52, 55, 56, 53, 54, 56, 52, 54, 54, 56, 52, 52, 52, 54, 53, 52, 56, 53, 55, 56, 52, 53, 53, 56, 56, 53, 53, 53, 55, 55, 53, 53, 53, 54, 54, 54, 52, 55, 56, 56, 54, 53, 54, 54, 53, 56, 52, 55, 54, 53, 56, 56, 52, 53, 56, 54, 52, 56, 52, 54, 52, 54, 53, 56, 53, 55, 53, 52, 54, 53, 54, 55, 55, 55, 55, 54, 54, 55, 54, 55, 53, 53, 55, 54, 54, 56, 52, 52, 54, 56, 56, 55, 55, 53, 55, 56, 52, 53, 52, 55, 52, 53, 52, 55, 53, 52, 54, 55, 56, 52, 53, 56, 53, 48, 72, 14, -123, 116, 59, -88, 98, -118, 99, 10, 3, 86]
+
+“0000044648646447887466548874566448486676446464477646745784766745447746588.:#?8?.491%+"4>65
+(%&3+	$)3=	474775488544475867648454574656675868787565667558847677767478568466844465485784558855577555666478865665847658845864846465857546567777667675576684468877578454745475467845850HÖt;®bäc
+V

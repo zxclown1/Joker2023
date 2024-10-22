@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "88887898."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [99998997798898777779797999887988788887898.///--/.0---]
+
+[52, 57, 57, 57, 57, 56, 57, 57, 55, 55, 57, 56, 56, 57, 56, 55, 55, 55, 55, 55, 57, 55, 57, 55, 57, 57, 57, 56, 56, 55, 57, 56, 56, 55, 56, 56, 56, 56, 55, 56, 57, 56, 46, 47, 47, 47, 45, 45, 47, 46, 48, 45, 45, 45, 47, 47, 46, 46, 48, 46, 46, 47, 45, 45, 47, 46, 47, 45, 48, 45, 46, 46, 47, 48, 46, 47, 48, 47, 48, 45, 48, 46, 45, 46, 48, 47, 46, 47, 47, 45, 47, 47, 47, 47, 45, 45, 48, 45, 48, 48, 48, 45, 45, 45, 47, 47, 48, 48, 46, 45, 45, 45, 45, 47, 46, 48, 47, 47, 46, 45, 48, 48, 46, 45, 48, 46, 46, 47, 45, 48, 47, 46, 47, 48, 48, 45, 48, 45, 46, 48, 45, 47, 48, 48, 46, 47, 45, 46, 48, 46, 47, 47, 45, 97, 93, 93, 96, 90, 98, 92, 89, 96, 94, 98, 90, 91, 94, 88, 90, 92, 92, 92, 95, 93, 98, 95, 94, 94, 96, 89, 93, 91, 95, 88, 91, 94, 96, 95, 92, 90, 88, 93, 92, 98, 90, 93, 88, 98, 93, 96, 91, 97, 97, 95, 91, 88, 95, 90, 95, 98, 92, 88, 91, 98, 98, 92, 93, 93, 95, 90, 97, 93, 95, 92, 95, 90, 94, 88, 96, 88, 98, 93, 89, 97, 96, 90, 94, 98, 98, 92, 88, 98, 91, 97, 95, 92, 88, 92, 92, 96, 88, 97, 91, 88, 88, 88, 98, 92, 96, 97, 90, 97, 98, 90, 97, 97, 98, 94, 95, 96, 92, 88, 91, 98, 94, 92, 91, 93, -125, 9, -89, -74, 41, -114, -36, -49, -6, 84, -120, 61, -94, 40, 89, 31, 122, -117, 12, 110, 116, 112]
+
+499998997798898777779797999887988788887898.///--/.0---//..0../--/./-0-../0./0/0-0.-.0/.//-////--0-000---//00.----/.0//.-00.-0../-0/./00-0-.0-/00./-.0.//-a]]`Zb\Y`^bZ[^XZ\\\_]b_^^`Y][_X[^`_\ZX]\bZ]Xb]`[aa_[X_Z_b\X[bb\]]_Za]_\_Z^X`Xb]Ya`Z^bb\Xb[a_\X\\`Xa[XXXb\`aZabZaab^_`\X[b^\[]É	ß∂)é‹œ˙Tà=¢(Yzãntp

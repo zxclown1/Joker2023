@@ -1,0 +1,15 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 58 out of bounds for length 58
+	at com.alibaba.fastjson2.JSONReaderUTF16.readString(JSONReaderUTF16.java:4049)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:280)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: ["–û&o^ax^kcTpo][auYmoev]\gUght_xpoxwbekZ^wWk[\Xbuj`V\tVpV\]
+
+[57, 34, 6, -17, 38, 111, 94, 97, 120, 94, 107, 99, 84, 112, 111, 93, 91, 97, 117, 89, 109, 111, 101, 118, 93, 92, 103, 85, 103, 104, 116, 95, 120, 112, 111, 120, 119, 98, 101, 107, 90, 94, 119, 87, 107, 91, 92, 88, 98, 117, 106, 96, 86, 92, 116, 86, 112, 86, 92, 101, 88, 120, 114, 87, 94, 88, 113, 90, 117, 86, 113, 104, 90, 109, 112, 105, 92, 85, 105, 90, 104, 99, 109, 101, 97, 120, 105, 115, 103, 114, 108, 117, 91, 92, 84, 115, 98, 118, 85, 98, 86, 96, 117, 90, 111, 88, 84, 117, 99, 112, 105, 87, 86, 102, 91, 90, 94, 94, 117, 110, 88, 118, 93, 100, 110, 108, 100, 100, 120, 111, 112, 112, 85, 96, 85, 87, 104, 116, 103, 114, 110, 88, 108, 96, 119, 117, 85, 115, 86, 102, 117, 101, 103, 118, 116, 93, 84, 115, 97, 116, 94, 105, 85, 102, 116, 105, 87, 101, 84, 93, 90, 102, 97, 120, 114, 118, 88, 118, 114, 118, 115, 100, 93, 114, 102, 107, 120, 95, 97, 104, 118, 100, 112, 97, 95, 104, 96, 97, 104, 102, 84, 104, 116, 114, 84, 110, 86, 103, 93, 101, 89, 89, 85, 118, 115, 115, 84, 93, 116, 110, 117, 93, 91, 89, 89, 84, 87, 103, 97, 114, 100, 95, 87, 88, 84, 112, 92, 87, 86, 86, 89, 114, 111, 120, 120, 98, 89, 113, 104, 107, 107, 110, 107, 115, 110, 84, 114, 104, 93, 93, 93, 114, 116, 120, 100, 92, 114, 105, 87, 106, 112, 95, 114, 86, 105, 92, 97, 86, 94, 47, 71, -13, 76, 97, 46, -30, -46, -59, 17, 32, 123, -35, 72, -48, 104, -108, 31, 81, 32, -36]
+
+9"Ô&o^ax^kcTpo][auYmoev]\gUght_xpoxwbekZ^wWk[\Xbuj`V\tVpV\eXxrW^XqZuVqhZmpi\UiZhcmeaxisgrlu[\TsbvUbV`uZoXTucpiWVf[Z^^unXv]dnlddxoppU`UWhtgrnXl`wuUsVfuegvt]Tsat^iUftiWeT]ZfaxrvXvrvsd]rfkx_ahvdpa_h`ahfThtrTnVg]eYYUvssT]tnu][YYTWgard_WXTp\WVVYroxxbYqhkknksnTrh]]]rtxd\riWjp_rVi\aV^/GÛLa.‚“≈ {›H–hîQ ‹

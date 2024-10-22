@@ -1,0 +1,22 @@
+java.lang.NumberFormatException: For input string: "51111037."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [608654365077516333513131357444433232342783151111037./0/)]
+
+[55, 54, 48, 56, 54, 53, 52, 51, 54, 53, 48, 55, 55, 53, 49, 54, 51, 51, 51, 53, 49, 51, 49, 51, 49, 51, 53, 55, 52, 52, 52, 52, 51, 51, 50, 51, 50, 51, 52, 50, 55, 56, 51, 49, 53, 49, 49, 49, 49, 48, 51, 55, 46, 47, 48, 47, 41, 13, 27, 45, 46, 48, 37, 45, 26, 44, 42, 43, 26, 17, 12, 35, 42, 28, 24, 25, 39, 10, 11, 44, 46, 32, 40, 27, 37, 12, 31, 42, 13, 27, 13, 47, 35, 49, 19, 22, 12, 35, 48, 34, 15, 48, 36, 47, 24, 24, 26, 47, 41, 42, 11, 20, 16, 48, 48, 43, 25, 15, 32, 32, 38, 38, 29, 20, 28, 13, 12, 23, 46, 46, 37, 33, 45, 16, 38, 20, 31, 38, 22, 14, 13, 31, 19, 27, 20, 43, 22, 17, 9, 35, 26, 35, 8, 25, 46, 26, 48, 23, 14, 13, 27, 43, 7, 7, 15, 36, 34, 36, 9, 23, 21, 42, 14, 49, 15, 42, 47, 18, 14, 39, 24, 35, 37, 22, 28, 39, 37, 16, 37, 37, 17, 48, 10, 16, 4, -6, -7, 6, 16, 26, 18, 31, 22, 1, 9, 26, 18, 21, 24, 28, -6, 28, 20, -6, 17, -1, 9, 27, 2, 28, 1, 26, 25, -5, 7, 28, -3, 3, 2, 2, 16, 1, 11, 12, 21, 21, 26, 8, 31, 19, 30, 26, 32, 27, 20, 1, 6, -3, 46, -83, 125, -82, -69, 54, 112, 4, -72, -91, -126, -106, -83, -86, 20, -126, 123, 15, -59, -118, -44, 115, -10, -105, -73, 36, 85, 114, 16, 46, -36, 6, 5, 70, -103, -106, -4, -128, -56, -21, 94, 77, -118, -102, -89, 95, -83, 16, -47, -106, 26, 108]
+
+7608654365077516333513131357444433232342783151111037./0/)-.0%-,*+#*'
+,. (%*/#1#0"0$//)*00+  &&..%!-&&+	##.0+$"$	*1*/'#%'%%%0
+úù	úúÿ	ûý ý.­}®»6p¸¥‚–­ª‚{ÅŠÔsö—·$Ur.ÜF™–ü€Èë^MŠš§_­Ñ–l

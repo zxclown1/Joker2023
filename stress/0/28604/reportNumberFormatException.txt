@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "44444444."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [444444444444444444444444444444444444444444444./"F3?]
+
+[52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 46, 47, 21, 34, 70, 51, 63, 23, 44, 43, 68, 44, 70, 49, 36, 48, 73, 62, 46, 27, 72, 20, 66, 21, 36, 46, 32, 74, 68, 20, 20, 57, 32, 32, 55, 74, 59, 27, 22, 50, 69, 48, 36, 21, 50, 31, 32, 73, 44, 35, 70, 31, 66, 23, 74, 23, 46, 33, 58, 75, 37, 31, 34, 51, 63, 61, 46, 40, 21, 75, 74, 46, 52, 58, 72, 57, 42, 68, 54, 54, 71, 41, 32, 50, 47, 37, 63, 46, 72, 48, 35, 20, 54, 65, 20, 26, 68, 70, 68, 47, 58, 75, 59, 75, 46, 52, 21, 45, 54, 20, 47, 38, 55, 72, 22, 36, 37, 55, 74, 55, 61, 57, 73, 41, 27, 34, 74, 25, 46, 47, 68, 60, 66, 47, 44, 38, 34, 71, 58, 47, 45, 56, 26, 65, 22, 37, 35, 56, 34, 72, 44, 29, 39, 21, 44, 69, 57, 67, 62, 54, 51, 31, 57, 62, 71, 73, 26, 40, 52, 63, 73, 38, 26, 35, 72, 59, 68, 60, 31, 62, 75, 60, 28, 52, 57, 57, 62, 35, 65, 60, 44, 21, 69, 47, 67, 52, 75, 49, 24, 61, 72, 61, 40, 48, 66, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 103, 8, 114, -37, -39, 82, 42, -66, -71, 50, 24, -100, 78, -79, 87, 49, -91, -2, -6, 38, -92, 37, 86, 97, -18, 39, -41, -98, -124, 58, -75]
+
+4444444444444444444444444444444444444444444444./"F3?,+D,F1$0I>.HB$. JD9  7J;2E0$2 I,#FBJ.!:K%"3?=.(KJ.4:H9*D66G) 2/%?.H0#6ADFD/:K;K.4-6/&7H$%7J7=9I)"J./D<B/,&"G:/-8A%#8"H,',E9C>639>GI(4?I&#H;D<>K<499>#A<,E/C4K1=H=(0B444444444444444444grÛÙR*¾¹2œN±W1¥þú&¤%Vaî'×ž„:µ

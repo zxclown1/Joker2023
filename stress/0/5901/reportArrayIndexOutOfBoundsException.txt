@@ -1,0 +1,18 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 19 out of bounds for length 19
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [001101100011111010E]
+
+[18, 48, 48, 49, 49, 48, 49, 49, 48, 48, 48, 49, 49, 49, 49, 49, 48, 49, 48, 69, 71, 69, 76, 78, 78, 82, 76, 78, 75, 85, 79, 83, 75, 74, 83, 81, 69, 71, 85, 69, 70, 71, 68, 82, 68, 76, 68, 70, 70, 83, 70, 77, 69, 72, 69, 82, 84, 78, 72, 82, 68, 79, 79, 70, 81, 80, 74, 84, 76, 77, 81, 69, 79, 49, 49, 48, 49, 48, 49, 48, 48, 49, 49, 49, 49, 48, 48, 49, 48, 49, 49, 48, 48, 49, 49, 49, 49, 48, 49, 48, 49, 48, 48, 48, 49, 48, 49, 48, 48, 49, 49, 48, 49, 48, 48, 48, 49, 48, 49, 48, 48, 49, 48, 49, 49, 48, 49, 49, 49, 49, 49, 48, 49, 49, 48, 48, 49, 48, 48, 48, 49, 49, 48, 49, 49, 48, 49, 48, 48, 49, 48, 48, 49, 49, 49, 48, 49, 49, 49, 48, 49, 48, 48, 48, 49, 49, 49, 49, 48, 49, 48, 49, 48, 48, 48, 49, 49, 49, 48, 49, 48, 48, -76, -82, -83, -106, -91, -101, -111, -110, -83, -84, -79, -106, -99, -112, -86, -106, -107, -86, -111, -89, -103, -75, -105, -77, -82, -89, -74, -108, -103, -100, -84, -99, -74, -111, -104, -94, -84, -74, -76, -83, -84, -82, -112, -109, -74, -84, -101, -98, -77, -112, -79, -109, -79, -96, -104, -107, -91, -96, -82, -108, -99, -102, -77, -86, -91, -91, -92, -88, -110, -95, 6, 85, -61, -52, 120, 90, -83, 77, -41, -53, -16, 23, -11, 126, -98, -93, 44, -109, -118, 60, 118, 8, -75, -87, -58, 76, 65, -96, 73, 76, -62, 93, 35, 34, -62, -107, 10, -82, 125, 127, 105, 10, 41, 81, -124, 97, 16, 102]
+
+001101100011111010EGELNNRLNKUOSKJSQEGUEFGDRDLDFFSFMEHERTNHRDOOFQPJTLMQEO1101010011110010110011110101000101001101000101001011011111011001000110110100100111011101000111101010001110100¥Æ≠ñ•õëí≠¨±ñùê™ñï™ëßôµó≥Æß∂îôú¨ù∂ëò¢¨∂¥≠¨Æêì∂¨õû≥ê±ì±†òï•†Æîùö≥™••§®í°U√ÃxZ≠M◊Àı~û£,ìä<vµ©∆LA†IL¬]#"¬ï
+Æ}i
+)QÑaf

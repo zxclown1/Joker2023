@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "59594784."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [66414988285731312152168246128976974551975995759594784..]
+
+[55, 13, 54, 54, 52, 49, 52, 57, 56, 56, 50, 56, 53, 55, 51, 49, 51, 49, 50, 49, 53, 50, 49, 54, 56, 50, 52, 54, 49, 50, 56, 57, 55, 54, 57, 55, 52, 53, 53, 49, 57, 55, 53, 57, 57, 53, 55, 53, 57, 53, 57, 52, 55, 56, 52, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 122, 56, 6, -57, -122, -58, -106, -38, -47, -75, 7, -40, 49, 16, -116, -78, -55, 80, -18, 64, 11, -92, 40, 113, -48, 39, -63, -12, 116, 66, -14, -98, -16, 21, -103, -74, 56, -120, -47, -103, 99, -73, -116, 103, -105, 92, -43, -4, -67, 34, 76, -16, -33, -80, 32, -78, -108, -77, 103, -77, -51, -11, 60, 108, 119, 101, -102, 104, -110, 76, 105, 120, 56, 122, -88, -54, 122, -104, 30, 55, -115, -32, 67, 70, 101, -80, -128, -65, 103, -40, -71, 53, 121, 102, 121, -41, 105]
+
+766414988285731312152168246128976974551975995759594784....................................................................................................................................................z8Ç†Æ–ÚÑµØ1Œ²ÉPî@¤(qÐ'ÁôtBòžð™¶8ˆÑ™c·Œg—\Õü½"Lðß° ²”³g³Íõ<lwešh’Lix8z¨Êz˜7àCFe°€¿gØ¹5yfy×i

@@ -1,0 +1,17 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 222 out of bounds for length 222
+	at com.alibaba.fastjson2.JSONReaderUTF16.readString(JSONReaderUTF16.java:4049)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:280)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: ["–ë2.3–ê–£–ª—Ç –∑0–∏—Ü–•,3–ñ–ù–ò–¥4–ü—ç—Ä*,,
+–ø–∂#–ê—Å—Å–π/$–†–ö–æ—à/0–ê–î–§—à9–π–∂—Ü—Ü–π–õ–¶–ó[Z]]]ZY[\]Y\[\]YZ\]]]]Z]][]Y\Z[\Y[Z\[Y\[]ZZZ\\][\\[YZZY\\YY\ZZZZ[]Z\YZY[\Y\YYY[\Y[Z\]ZYYYYZZ\\Y\\Y\]\[[Z\Y\YYY\Z]\[YZZ]Y]Z[ZY\\Y\ZY]\[]Z][\[[\]
+
+[-35, 34, 15, -30, 31, 11, 50, 46, 51, -31, -11, -52, -44, 1, 3, 32, 11, -38, 48, -55, 18, -61, -24, 44, 7, 51, 14, -10, -18, -23, -60, 18, 6, 52, -16, -36, -46, 42, 44, 44, 10, -48, -42, 23, 31, 35, -31, -45, 30, -45, -54, 47, 23, 36, -14, 8, 30, -21, 7, -49, -37, 47, 48, 17, 11, -31, -28, 7, -26, -37, 57, -54, -42, -61, -61, 25, -54, -20, 31, -29, -6, 91, 90, 93, 93, 93, 90, 89, 91, 92, 93, 89, 92, 91, 92, 93, 89, 90, 92, 93, 93, 93, 93, 90, 93, 93, 91, 93, 89, 92, 90, 91, 92, 89, 91, 90, 92, 91, 89, 92, 91, 93, 90, 90, 90, 92, 92, 93, 91, 92, 92, 91, 89, 90, 90, 89, 92, 92, 89, 89, 92, 90, 90, 90, 90, 91, 93, 90, 92, 89, 90, 89, 91, 92, 89, 92, 89, 89, 89, 91, 92, 89, 91, 90, 92, 93, 90, 89, 89, 89, 89, 90, 90, 92, 92, 89, 92, 92, 89, 92, 93, 92, 91, 91, 90, 92, 89, 92, 89, 89, 89, 92, 90, 93, 92, 91, 89, 90, 90, 93, 89, 93, 90, 91, 90, 89, 92, 92, 89, 92, 90, 89, 93, 92, 91, 93, 90, 93, 91, 92, 91, 91, 92, 90, 92, 89, 92, 93, 90, 93, 91, 91, 92, 92, 89, 91, 90, 89, 91, 90, 90, 90, 93, 93, 92, 93, 89, 91, 90, 89, 91, 91, 89, 89, 93, 91, 93, 90, 90, 90, 89, 90, 89, 92, 90, 92, 91, 90, 93, 89, 89, 90, 90, 93, 89, 90, 91, 91, 90, 89, 32, 30, 21, 76, -102, -52, 105, -26, 29, -89, -50, 117, -47, -108, -90, 124, 101, -5, 78, 66]
+
+›"‚2.3·ıÃ‘ ⁄0…√Ë,3ˆÓÈƒ4‹“*,,
+–÷#·”” /$ÚÎœ€/0·‰Ê€9 ÷√√ Ï„˙[Z]]]ZY[\]Y\[\]YZ\]]]]Z]][]Y\Z[\Y[Z\[Y\[]ZZZ\\][\\[YZZY\\YY\ZZZZ[]Z\YZY[\Y\YYY[\Y[Z\]ZYYYYZZ\\Y\\Y\]\[[Z\Y\YYY\Z]\[YZZ]Y]Z[ZY\\Y\ZY]\[]Z][\[[\Z\Y\]Z][[\\Y[ZY[ZZZ]]\]Y[ZY[[YY][]ZZZYZY\Z\[Z]YYZZ]YZ[[ZY LöÃiÊßŒu—î¶|e˚NB

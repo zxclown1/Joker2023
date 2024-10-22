@@ -1,0 +1,17 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6295)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [+14.]
+
+[3, 43, 49, 52, 46, 45, 82, 84, 111, 14, 6, 120, 78, 40, 73, 11, 62, 75, 26, 63, 62, 19, 118, 101, 96, 114, 13, 2, 92, 19, 44, 37, 79, 31, 3, 13, 59, 57, 102, 86, 81, 67, 70, 35, 75, 51, 111, 92, 85, 73, 21, 38, 101, 116, 89, 48, 4, 36, 5, 122, 75, 84, 100, 23, 9, 58, 25, -1, 48, 33, 7, 60, 55, 97, 81, 59, 88, 120, 119, 78, 102, 76, 114, 93, 116, 113, 96, 91, 105, 107, 43, 21, 34, 73, 89, 49, 20, 120, 22, 102, 78, 11, 119, 10, 96, -1, 100, 40, 94, 45, 15, 125, 66, 59, 89, 29, 88, 79, 61, 73, 87, 91, 103, 101, 86, 34, 114, 53, 43, 27, 37, 111, 60, 95, 123, 27, 36, 22, 64, 29, 106, 124, 89, 70, 9, 122, 62, 110, 14, 40, 120, 25, 18, 121, 30, 60, 95, 22, 33, 22, 30, 27, 26, 30, 29, 27, 30, 28, 32, 24, 32, 32, 29, 22, 22, 23, 31, 27, 29, 32, 24, 24, 28, 24, 23, 27, 24, 24, 31, 23, 26, 31, 23, 24, 24, 28, 24, 25, 32, 33, 24, 30, 33, 22, 22, 30, 23, 29, 24, 31, 31, 23, 29, 24, 33, 23, 23, 33, 30, 31, 27, 28, 24, 30, 32, -20, 125, 87, 54, 99, 123, 29, -74, 73, -11, -23, -24, -82, 110, 88, 56, -48, -36, 101, 91, -18, 32, -42, -22, 50, -84, 21, 126, -17, 67, -29, -67, -57, 37, 92, -82, 27, 71, 119, 105, 22, -78, -20, 18, -25, 9, 51, -13, -41, -30, 111, 94, -55, 32, 6, 90, 76, -9, 56, -37, -11, -65, 80, -48, 114, -31, -33, -43, 104, -28, -79, 2, 47, 87, 73]
+
++14.-RToxN(I>K?>ve`r\,%O;9fVQCF#K3o\UI&etY0$zKTd	:ÿ0!<7aQ;XxwNfLr]tq`[ik+"IY1xfNw
+`ÿd(^-}B;YXO=IW[geV"r5+%o<_{$@j|YF	z>n(xy<_!     !!!! ì}W6c{¶Iõéè®nX8ÐÜe[î Öê2¬~ïCã½Ç%\®Gwi²ìç	3ó×âo^É ZL÷8Ûõ¿PÐráßÕhä±/WI

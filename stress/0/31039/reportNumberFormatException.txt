@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "22222222."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [22222222222222222222222222222222222222222222222222222222222222222222222.J:05FN&H67F%I2H1D5E11.B3?:(+*-A0.5B9%L1K*MJ9<08)C<3JB$85.:M/+8$(JCLC5&>:D=M0*@1A2222222222]
+
+[-95, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 46, 74, 58, 48, 53, 70, 78, 38, 72, 54, 55, 70, 37, 73, 50, 72, 49, 68, 53, 69, 49, 49, 46, 66, 51, 63, 58, 40, 43, 42, 45, 65, 48, 46, 53, 66, 57, 37, 76, 49, 75, 42, 77, 74, 57, 60, 48, 56, 41, 67, 60, 51, 74, 66, 36, 56, 53, 46, 58, 77, 47, 43, 56, 36, 40, 74, 67, 76, 67, 53, 38, 62, 58, 68, 61, 77, 48, 42, 64, 49, 65, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, -32, 48, -78, -80]
+
+¡22222222222222222222222222222222222222222222222222222222222222222222222.J:05FN&H67F%I2H1D5E11.B3?:(+*-A0.5B9%L1K*MJ9<08)C<3JB$85.:M/+8$(JCLC5&>:D=M0*@1A22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222à0²°

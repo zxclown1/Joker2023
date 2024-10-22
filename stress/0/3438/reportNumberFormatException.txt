@@ -1,0 +1,21 @@
+java.lang.NumberFormatException: For input string: "51204503."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [4250103123553150013233035544210011503451204503.%0%]
+
+[51, 52, 50, 53, 48, 49, 48, 51, 49, 50, 51, 53, 53, 51, 49, 53, 48, 48, 49, 51, 50, 51, 51, 48, 51, 53, 53, 52, 52, 50, 49, 48, 48, 49, 49, 53, 48, 51, 52, 53, 49, 50, 48, 52, 53, 48, 51, 46, 17, 30, 37, 48, 37, 41, 15, 19, 49, 26, 29, 53, 41, 53, 55, 24, 54, 51, 36, 31, 46, 30, 30, 16, 45, 31, 53, 50, 43, 51, 35, 26, 36, 17, 50, 35, 44, 40, 19, 30, 40, 49, 30, 20, 27, 41, 52, 48, 51, 31, 42, 40, 35, 25, 55, 35, 55, 23, 16, 23, 23, 41, 35, 34, 42, 32, 44, 48, 52, 21, 55, 38, 48, 33, 38, 22, 46, 24, 44, 43, 20, 23, 54, 45, 54, 15, 45, 29, 30, 55, 44, 40, 55, 52, 40, 43, 27, 22, 27, 51, 24, 17, 42, 55, 38, 34, 51, 32, 49, 33, 47, 32, 45, 45, 42, 15, 53, 52, 53, 50, 50, 48, 51, -65, -78, 126, 16, 10, -29, -51, 49, 38, -40, 103, -122, -23, -93, 45, 119, -56, 19, 84, 109, 38, -92, -64, -77, -65, -32, 20, -16, 34, 98, -117, 33, -108, -94, 8, 118, 34, 69, -87, 120, -18, 11, 2, 30, -29, 32, -86, 25, 56, -41, 17, 50, -3, -74, -79, 23, 75, 59, -48, 58, 114, 1, 105, 17, -58, 105, 124, 101, -23, -63, -30, 106, -60, 108, 97, 26, 20, -101, 92, -75, 18, -37, -38, 88, 84, -51, 69, -66, 24, -123, 41, -94, -5, 14, 74, -91, 99, 4, 112, -39, 114, 97, -124, -106, 110, -9, 89, -75, 55, -20, -11, -2, 115, 108, -35, -4, -79, -4, -64, -124, 108, 64, -26, -42, -60, 31, -37, 106, -42]
+
+34250103123553150013233035544210011503451204503.%0%)15)5763$.-52+3#$2#,((1)403*(#7#7)#"* ,047&0!&.,+6-6-7,(74(+3*7&"3 1!/ --*5452203¿²~
+ãÍ1&Øg†é£-wÈTm&¤À³¿àð"b‹!”¢v"E©xîã ª8×2ý¶±K;Ð:riÆi|eéÁâjÄla›\µÛÚXTÍE¾…)¢ûJ¥cpÙra„–n÷Yµ7ìõþslÝü±üÀ„l@æÖÄÛjÖ

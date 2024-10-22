@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 53 out of bounds for length 53
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [5644664564645545446546464464465465645456555646654455E]
+
+[52, 53, 54, 52, 52, 54, 54, 52, 53, 54, 52, 54, 52, 53, 53, 52, 53, 52, 52, 54, 53, 52, 54, 52, 54, 52, 52, 54, 52, 52, 54, 53, 52, 54, 53, 54, 52, 53, 52, 53, 54, 53, 53, 53, 54, 52, 54, 54, 53, 52, 52, 53, 53, 69, 33, 35, 63, 70, 67, 48, 50, 45, 33, 34, 47, 55, 71, 67, 40, 36, 71, 34, 68, 61, 64, 42, 47, 41, 57, 34, 50, 33, 52, 68, 52, 42, 36, 71, 60, 38, 45, 57, 65, 39, 44, 33, 41, 63, 58, 72, 57, 56, 43, 39, 38, 33, 58, 54, 35, 41, 35, 72, 51, 68, 35, 53, 41, 55, 50, 49, 48, 72, 58, 72, 60, 53, 36, 63, 36, 58, 59, 70, 58, 53, 44, 66, 40, 42, 64, 65, 61, 66, 55, 51, 67, 65, 57, 61, 52, 67, 42, 60, 55, 45, 45, 63, 68, 48, 66, 41, 68, 44, 55, 54, 68, 46, 47, 66, 64, 66, 40, 60, 56, 41, 36, 50, 72, 36, 44, 64, 61, 40, 39, 41, 69, 40, 42, 46, 68, 65, 69, 34, 47, 45, 43, 46, 54, 40, 48, 69, 33, 52, 66, 53, 41, 51, 38, 66, 55, 53, 34, 35, 36, 71, 47, 38, 71, 63, 67, 36, 65, 48, 47, 67, 54, 54, 59, 55, 65, 63, 73, 39, 62, 52, 36, 40, 59, 73, 61, 64, 43, 37, 66, 37, 43, 34, 42, 57, 36, 34, 42, 60, 63, 57, 46, 69, 55, 70, 62, 45, 38, 52, 35, 65, 50, 52, 63, 69, 56, 40, 61, 54, 59, 43, 73, 36, 49, 54, 57, 57, 50, 63, 65, 49, 47, 43, 63, 56, 69, 72, 37, 42, 73, 68, 41, 60, 79, -2, 112, -61]
+
+45644664564645545446546464464465465645456555646654455E!#?FC02-!"/7GC($G"D=@*/)9"2!4D4*$G<&-9A',!)?:H98+'&!:6#)#H3D#5)7210H:H<5$?$:;F:5,B(*@A=B73CA9=4C*<7--?D0B)D,76D./B@B(<8)$2H$,@=(')E(*.DAE"/-+.6(0E!4B5)3&B75"#$G/&G?C$A0/C66;7A?I'>4$(;I=@+%B%+"*9$"*<?9.E7F>-&4#A24?E8(=6;+I$16992?A1/+?8EH%*ID)<OþpÃ

@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "89889988."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [99989888999888998898899989999889998898999989889988.'* +,"]
+
+[57, 57, 57, 57, 56, 57, 56, 56, 56, 57, 57, 57, 56, 56, 56, 57, 57, 56, 56, 57, 56, 56, 57, 57, 57, 56, 57, 57, 57, 57, 56, 56, 57, 57, 57, 56, 56, 57, 56, 57, 57, 57, 57, 56, 57, 56, 56, 57, 57, 56, 56, 46, 39, 30, 42, 32, 43, 44, 34, 29, 38, 43, 31, 29, 44, 39, 31, 39, 37, 36, 33, 40, 38, 40, 38, 37, 45, 40, 33, 41, 29, 40, 37, 41, 41, 39, 35, 39, 46, 46, 44, 46, 39, 43, 37, 39, 34, 43, 46, 33, 38, 42, 46, 37, 32, 31, 30, 45, 43, 37, 34, 36, 37, 42, 31, 45, 31, 41, 46, 34, 29, 30, 41, 31, 43, 41, 33, 45, 42, 36, 29, 32, 33, 31, 31, 45, 35, 46, 37, 31, 37, 29, 37, 38, 44, 41, 36, 45, 42, 39, 35, 31, 32, 29, 45, 39, 44, 31, 41, 32, 30, 42, 29, 29, 44, 37, 40, 30, 35, 39, 31, 45, 41, 43, 40, 34, 30, 39, 33, 42, 32, 33, 41, 30, 41, 46, 34, 41, 45, 38, 31, 31, 42, 45, 42, 32, 37, 29, 34, 34, 37, 41, 35, 36, 46, 37, 36, 38, 32, 44, 35, 44, 31, 38, 43, 37, 31, 34, 35, 32, 36, 35, 44, 32, 46, 35, 38, 30, 45, 41, 41, 32, 42, 37, 40, 41, 35, 44, 30, 35, 39, 34, 33, 31, 37, 45, 43, 45, 36, 36, 40, 34, 39, 29, 39, 36, 30, 32, 38, 41, 38, 37, 46, 38, 29, 36, 34, 41, 43, 38, 39, 35, 45, 37, 29, 33, 35, 33, 32, 31, 121, -55, 90, -20, 38, 4, 40, -49, -8, 44, 58, 24, -86, -69, 35, 76, 8, 22, 84, -123]
+
+999989888999888998898899989999889998898999989889988.'* +,"&+,''%$!(&(&%-(!)(%))'#'..,.'+%'"+.!&*.% -+%"$%*-).")+)!-*$ !-#.%%%&,)$-*'# -',) *,%(#'-)+("'!* !)).")-&*-* %""%)#$.%$& ,#,&+%"# $#, .#&-)) *%()#,#'"!%-+-$$("''$ &)&%.&$")+&'#-%!#! yÉZì&(Ïø,:ª»#LT…

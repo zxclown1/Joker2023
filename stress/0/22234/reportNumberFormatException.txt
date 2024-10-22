@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "98897879."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [2799898999977977977999798998998988897899898887977779887777989779799799897888799779977897787898797888787798897989879889797877878878897898877998897879.Ð·2]
+
+[-106, 50, 55, 57, 57, 56, 57, 56, 57, 57, 57, 57, 55, 55, 57, 55, 55, 57, 55, 55, 57, 57, 57, 55, 57, 56, 57, 57, 56, 57, 57, 56, 57, 56, 56, 56, 57, 55, 56, 57, 57, 56, 57, 56, 56, 56, 55, 57, 55, 55, 55, 55, 57, 56, 56, 55, 55, 55, 55, 57, 56, 57, 55, 55, 57, 55, 57, 57, 55, 57, 57, 56, 57, 55, 56, 56, 56, 55, 57, 57, 55, 55, 57, 57, 55, 55, 56, 57, 55, 55, 56, 55, 56, 57, 56, 55, 57, 55, 56, 56, 56, 55, 56, 55, 55, 57, 56, 56, 57, 55, 57, 56, 57, 56, 55, 57, 56, 56, 57, 55, 57, 55, 56, 55, 55, 56, 55, 56, 56, 55, 56, 56, 57, 55, 56, 57, 56, 56, 55, 55, 57, 57, 56, 56, 57, 55, 56, 55, 57, 46, -38, 50, -10, -1, 55, 37, 6, -10, 65, 46, 20, -40, -27, -15, -34, 87, 73, 77, 22, 12, -24, 25, 60, -32, -28, -14, 42, 77, -12, 42, 50, 82, -21, 11, 56, 57, 57, 57, 57, 57, 56, 55, 55, 57, 56, 55, 56, 55, 55, 56, 57, 55, 56, 55, 57, 57, 56, 55, 57, 57, 56, 56, 55, 57, 56, 56, 56, 56, 56, 55, 55, 57, 55, 55, 56, 56, 57, 56, 56, 57, 55, 56, 56, 55, 55, 57, 56, 57, 56, 56, 57, 57, 55, 55, 55, 57, 55, 57, 57, 55, 57, 56, 55, 56, 55, 57, 57, 55, 57, 55, 55, 56, 55, 56, 55, 57, 56, 55, 57, 57, 55, 57, 57, 56, 55, 57, 56, 55, 57, 55, 55, 57, 57, 57, 55, 56, 55, 57, 56, 57, 57, 56, -64, 19, 40, -15, 3, -87, 52, -43]
+
+–2799898999977977977999798998998988897899898887977779887777989779799799897888799779977897787898797888787798897989879889797877878878897898877998897879.Ú2öÿ7%öA.ØåñÞWIMè<àäò*Mô*2Rë899999877987877897879987998879888887797788988978877989889977797997987879979778787987997998798797799978798998À(ñ©4Õ

@@ -1,0 +1,20 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 52 out of bounds for length 52
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [110010101000111101000001110011000111011110000110000E]
+
+[51, 49, 49, 48, 48, 49, 48, 49, 48, 49, 48, 48, 48, 49, 49, 49, 49, 48, 49, 48, 48, 48, 48, 48, 49, 49, 49, 48, 48, 49, 49, 48, 48, 48, 49, 49, 49, 48, 49, 49, 49, 49, 48, 48, 48, 48, 49, 49, 48, 48, 48, 48, 69, -16, -15, 78, 60, -21, 74, 82, 59, 87, 79, -9, 10, 81, 82, 33, 40, 6, 90, 61, 38, 48, -17, 74, 73, -3, -18, 76, -9, 26, 3, 65, 10, 78, 48, 73, -19, 33, 88, 91, 56, 43, 54, 81, -3, 64, 38, 77, 22, -15, 6, 36, 72, 11, 45, 57, 33, -12, 76, 53, -15, 21, 9, 56, 22, 54, 6, 89, 34, 94, 65, 37, 27, -12, 93, 57, 86, 95, 42, 22, 8, 92, 51, 75, 10, 77, -4, 13, -19, 6, 11, 83, 1, 25, 27, 82, 2, 5, 75, -21, -4, 87, -16, 14, -20, 54, 90, 37, 91, 48, 23, 11, 53, 25, -15, 70, 9, 29, 44, 88, 30, 1, -4, 29, 94, 57, 9, 85, -24, 17, 38, -14, 60, 61, 44, 54, 55, 23, 57, 79, 17, 96, 31, -24, 16, -13, 24, 88, -10, 78, 18, 25, -10, 7, 9, 78, 46, 52, 80, 69, 84, 7, 90, 14, 71, 96, 62, 50, 85, 20, -17, 81, 27, 85, 82, 20, -24, -1, 83, 21, 79, 6, 52, 62, 4, 37, 50, 34, 44, 47, 44, 10, 76, 2, 79, 34, -9, -23, 1, 91, 34, 21, 92, 86, 63, 31, 8, 66, 25, 80, 48, 29, -76, 93, 16, 37, -73, 101, -82, 34, -48, 30, -28, -47, -31, -114, 27, 117, 76, 127, 37, 37, -64, -88, -92, -79, -93, 84, 18, -52, -25, -81, -98, 121, 74, 5, 108, 123]
+
+3110010101000111101000001110011000111011110000110000EðñN<ëJR;WO÷
+QR!(Z=&0ïJIýîL÷A
+N0Ií!X[8+6Qý@&Mñ$H-9!ôL5ñ	86Y"^A%ô]9V_*\3K
+MüíSRKëüWðì6Z%[05ñF	,Xü^9	Uè&ò<=,679O`èóXöNö	N.4PETZG`>2UïQURèÿSO4>%2",/,
+LO"÷é["\V?BP0´]%·e®"ÐäÑáŽuL%%À¨¤±£TÌç¯žyJl{

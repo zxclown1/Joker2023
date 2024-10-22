@@ -1,0 +1,17 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 37 out of bounds for length 37
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [088888888888888888888888888888888888e]
+
+[36, 48, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 101, 101, 96, 95, 98, 94, 94, 101, 98, 101, 100, 96, 99, 96, 100, 100, 99, 99, 96, 99, 94, 97, 94, 100, 94, 95, 95, 98, 97, 97, 94, 94, 97, 95, 99, 101, 95, 98, 97, 96, 100, 98, 94, 98, 101, 94, 97, 101, 99, 94, 99, 101, 101, 94, 95, 100, 95, 96, 95, 94, 94, 100, 98, 97, 97, 94, 99, 97, 99, 95, 97, 96, 100, 95, 99, 96, 100, 96, 94, 101, 99, 97, 98, 99, 98, 97, 95, 100, 94, 95, 98, 94, 96, 101, 95, 95, 94, 101, 97, 98, 101, 100, 95, 100, 97, 97, 98, 99, 97, 96, 100, 100, 96, 98, 95, 99, 99, 100, 94, 98, 100, 96, 95, 101, 97, 98, 94, 97, 95, 94, 100, 100, 101, 96, 97, 99, 96, 95, 101, 100, 99, 98, 99, 97, 118, 127, -104, -61, 44, -77, -59, -6, 48, -22, -113, -13, 40, 82, -41, 10, -72, -32, -111, -25, 125, -114, 28, 45, -23, 6, 122, 115, -80, -40, -36, -26, 124, 55, 21, 50, -50, -59, -65, 72, 88, 77, 84, 89, 87, 89, 75, 90, 89, 82, 88, 75, 88, 77, 89, 85, 92, 92, 88, 71, 83, 73, 85, 78, 91, 71, 85, 84, 91, 86, 76, 72, 87, 84, 70, 83, 85, 87, 92, 80, 92, 82, 89, 84, 79, 77, 75, 75, 88, 88, 87, 78, 81, 79, 75, 88, 91, 72, 87, 87, 80, 78, 87, 92, 70, 87, 83, 82, -14, -112, 57, -91, -105, 22, 90, -23, -98, 97, 23]
+
+$088888888888888888888888888888888888ee`_b^^ebed`c`ddcc`c^a^d^__baa^^a_ce_ba`db^be^aec^cee^_d_`_^^dbaa^cac_a`d_c`d`^ecabcba_d^_b^`e__^eabed_daabca`dd`b_ccd^bd`_eab^a_^dde`ac`_edcbcavò√,≥≈˙0ÍèÛ(R◊
+∏‡ëÁ}é-Èzs∞ÿ‹Ê|72Œ≈øHXMTYWYKZYRXKXMYU\\XGSIUN[GUT[VLHWTFSUW\P\RYTOMKKXXWNQOKX[HWWPNW\FWSRÚê9•óZÈûa

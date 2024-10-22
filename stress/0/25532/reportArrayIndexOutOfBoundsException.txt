@@ -1,0 +1,18 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 54 out of bounds for length 54
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [11557131154577251613116775466415245465776557636771671E]
+
+[53, 49, 49, 53, 53, 55, 49, 51, 49, 49, 53, 52, 53, 55, 55, 50, 53, 49, 54, 49, 51, 49, 49, 54, 55, 55, 53, 52, 54, 54, 52, 49, 53, 50, 52, 53, 52, 54, 53, 55, 55, 54, 53, 53, 55, 54, 51, 54, 55, 55, 49, 54, 55, 49, 69, 27, 42, 85, 38, 73, 49, 17, 37, 49, 17, 58, 74, 88, 98, 3, 22, 114, 48, 77, 13, 92, 50, 76, 49, 25, 39, 107, 47, 91, 3, 38, 74, 62, 28, 106, 65, 75, 4, 113, 36, 21, 31, 19, 77, 15, 62, 30, 116, 85, 67, 32, 41, 62, 108, 45, 115, 102, 42, 82, 14, 67, 99, 30, 87, 43, 97, 91, 35, 97, 60, 89, 75, 101, 107, 15, 104, 71, 10, 30, 79, 44, 31, 100, 43, 65, 106, 51, 110, 87, 27, 105, 99, 54, 103, 80, 55, 97, 20, 53, 59, 108, 50, 21, 64, 102, 49, 9, 11, 4, 106, 11, 39, 22, 5, 52, 73, 79, 62, 17, 69, 7, 88, 111, 69, 58, 42, 34, 30, 87, 30, 100, 82, 37, 91, 91, 43, 76, 5, 85, 109, 29, 24, 55, 5, 60, 24, 105, 26, 10, 4, 50, 27, 43, 105, 8, 63, 62, 65, 69, 41, 84, 33, 7, 25, 23, 92, 17, 43, 91, 44, 54, 38, 50, 55, 22, 69, 19, 111, 83, 16, 9, 82, 73, 66, 79, 38, 99, 11, 44, 65, 81, 63, 113, 4, 26, 16, 51, 88, 24, 55, 69, 9, 96, 96, 97, 78, 72, 94, 104, 114, 28, 20, 64, 98, 104, 80, -57, -61, 103, -95, 72, -43, -100, -105, -100, -25, -90, -110, -68, 41, 117, -32, -123, 26, -5, -57, 121, -13, -95, 93, -25, -78, 37, 102, 23]
+
+511557131154577251613116775466415245465776557636771671E*U&I1%1:JXbr0M\2L1'k/[&J>jAKq$M>tUC )>l-sf*RCcW+a[#a<YKekhG
+O,d+Aj3nWic6gP7a5;l2@f1	j'4IO>EXoE:*"WdR%[[+LUm7<i
+2+i?>AE)T!\+[,6&27EoS	RIBO&c,AQ?q3X7E	``aNH^hr@bhPÇÃg¡HÕœ—œç¦’¼)uà…ûÇyó¡]ç²%f

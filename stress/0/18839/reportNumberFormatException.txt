@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "99991331."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [7786787678976767879776989869879968669876889989669676699987686986688799991331.&;6(5(<(++<-<=':-3(/6*8),)-:+;+1)7.'6+5'670,11(*857&))).009)(78(:1,668)(.9;6:8,(,71/)(-,&'3,*9&&9,6(9:+0=5=/02-.1]
+
+[-67, 55, 55, 56, 54, 55, 56, 55, 54, 55, 56, 57, 55, 54, 55, 54, 55, 56, 55, 57, 55, 55, 54, 57, 56, 57, 56, 54, 57, 56, 55, 57, 57, 54, 56, 54, 54, 57, 56, 55, 54, 56, 56, 57, 57, 56, 57, 54, 54, 57, 54, 55, 54, 54, 57, 57, 57, 56, 55, 54, 56, 54, 57, 56, 54, 54, 56, 56, 55, 57, 57, 57, 57, 49, 51, 51, 49, 46, 38, 59, 54, 40, 53, 40, 60, 40, 43, 43, 60, 45, 60, 61, 39, 58, 45, 51, 40, 47, 54, 42, 56, 41, 44, 41, 45, 58, 43, 59, 43, 49, 41, 55, 46, 39, 54, 43, 53, 39, 54, 55, 48, 44, 49, 49, 40, 42, 56, 53, 55, 38, 41, 41, 41, 46, 48, 48, 57, 41, 40, 55, 56, 40, 58, 49, 44, 54, 54, 56, 41, 40, 46, 57, 59, 54, 58, 56, 44, 40, 44, 55, 49, 47, 41, 40, 45, 44, 38, 39, 51, 44, 42, 57, 38, 38, 57, 44, 54, 40, 57, 58, 43, 48, 61, 53, 61, 47, 48, 50, 45, 46, 49, 39, 56, 41, 42, 42, 50, 58, 46, 48, 47, 38, 50, 56, 49, 38, 42, 58, 57, 49, 53, 42, 48, 55, 18, 30, 46, 39, 32, 53, 33, 39, 29, 53, 42, 36, 33, 25, 19, 44, 24, 12, 18, 28, 43, 43, 47, 41, 50, 50, 50, 6, 56, 22, 33, 49, 55, 57, 31, 17, 16, 36, 25, 43, 33, 51, 33, 44, 14, 40, 41, 31, 19, 17, 6, 53, 17, 35, -81, 56, -124, 8, -120, 26, 62, -86, 103, -63, 117, -61, -37, -11, 124, -28, 106, 2, -99, 41, 2, 100, -59, 7, -85, 57, 63, -54, 43, 71, 3, -45]
+
+Ω7786787678976767879776989869879968669876889989669676699987686986688799991331.&;6(5(<(++<-<=':-3(/6*8),)-:+;+1)7.'6+5'670,11(*857&))).009)(78(:1,668)(.9;6:8,(,71/)(-,&'3,*9&&9,6(9:+0=5=/02-.1'8)**2:.0/&281&*:915*07.' 5!'5*$!,++/)2228!179$+!3!,()5#Ø8Ñà>™g¡u√€ı|‰jù)d≈´9? +G”

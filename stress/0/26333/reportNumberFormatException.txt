@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "33374676."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [0000000000000000000047647367666467633374676.'7]
+
+[48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 52, 55, 54, 52, 55, 51, 54, 55, 54, 54, 54, 52, 54, 55, 54, 51, 51, 51, 55, 52, 54, 55, 54, 46, 39, 55, 31, 27, 22, 53, 43, 24, 19, 26, 37, 23, 35, 19, 27, 49, 18, 19, 26, 57, 55, 50, 26, 22, 51, 52, 49, 35, 50, 23, 48, 22, 55, 20, 45, 55, 44, 45, 20, 42, 46, 41, 44, 31, 27, 15, 31, 40, 28, 35, 46, 39, 50, 44, 23, 56, 31, 27, 54, 18, 46, 42, 55, 20, 41, 40, 17, 55, 35, 50, 42, 29, 47, 16, 55, 42, 48, 50, 46, 24, 56, 20, 57, 16, 18, 15, 18, 21, 16, 44, 22, 18, 44, 17, 47, 21, 43, 49, 45, 23, 45, 36, 16, 19, 57, 33, 43, 32, 28, 29, 20, 49, 48, 36, 44, 29, 50, 18, 16, 45, 52, 53, 53, 54, 52, 51, 55, 51, 54, 52, 52, 55, 53, 53, 52, 51, 54, 55, 52, 51, 52, 53, 53, 53, 55, 54, 54, 52, 54, 53, 54, 54, 53, 52, 54, 52, 54, 53, 55, 52, 51, 55, 53, 54, 54, 54, 52, 53, 52, 52, 54, 55, 52, 55, 51, 54, 53, 53, 52, 53, 51, 54, 51, 54, 51, 53, 55, 51, 54, 52, 52, 54, 54, 52, 51, 53, 55, 55, 52, 53, 51, 53, 52, 55, 55, 54, 53, 55, 52, 51, 55, 54, 51, 51, 51, 55, 53, 55, 52, 55, 54, 99, -43, 74, 11, 101, -118, -35, -10, 71, 87, 85, 33, 31, 126, -114, -92, 82, -91, -122, 97, -37, -90, 120, -21, -53, 19, 78, -90, 61, -88, 1, 28, -93, 106]
+
+00000000000000000000047647367666467633374676.'75+%#1972341#207-7,-*.),(#.'2,86.*7)(7#2*/7*02.89,,/+1--$9!+ 10$,2-45564373644755436743455576646566546465743756664544674736554536363573644664357745354776574376333757476c’Jeä›ˆGWU!~é§R•Üa€¶xÎÀN¶=®£j

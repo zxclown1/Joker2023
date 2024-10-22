@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 53 out of bounds for length 53
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [4444444444444444444444444444444444444444444444444444E]
+
+[52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 69, 68, 64, 60, 58, 55, 70, 57, 63, 71, 70, 59, 62, 57, 64, 59, 57, 63, 63, 71, 66, 58, 62, 64, 62, 70, 67, 63, 70, 65, 55, 67, 59, 71, 55, 58, 55, 70, 64, 63, 68, 58, 62, 68, 60, 71, 58, 63, 66, 67, 69, 58, 58, 65, 69, 58, 65, 61, 61, 55, 68, 64, 66, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 60, 85, 68, 63, 58, 81, 67, 67, 67, 62, 60, 60, 80, 66, 73, 56, 72, 55, 71, 86, 68, 73, 59, 81, 70, 80, 56, 82, 85, 61, 62, 81, 58, -114]
+
+44444444444444444444444444444444444444444444444444444ED@<:7F9?GF;>9@;9??GB:>@>FC?FA7C;G7:7F@?D:>D<G:?BCE::AE:A==7D@B444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444<UD?:QCCC><<PBI8H7GVDI;QFP8RU=>Q:Ž

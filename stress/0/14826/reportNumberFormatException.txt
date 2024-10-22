@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "99867788."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [ 9796897678896896879978787988768797688798678999977898799796677799878899867788.89679676977888666989886896978689669667978869697988677979668696678699699969678987777976887987676987688998888687897998899969788778966977679986779968896997677986777666668976]
+
+[-8, 32, 57, 55, 57, 54, 56, 57, 55, 54, 55, 56, 56, 57, 54, 56, 57, 54, 56, 55, 57, 57, 55, 56, 55, 56, 55, 57, 56, 56, 55, 54, 56, 55, 57, 55, 54, 56, 56, 55, 57, 56, 54, 55, 56, 57, 57, 57, 57, 55, 55, 56, 57, 56, 55, 57, 57, 55, 57, 54, 54, 55, 55, 55, 57, 57, 56, 55, 56, 56, 57, 57, 56, 54, 55, 55, 56, 56, 46, 29, 56, 57, 54, 55, 57, 54, 55, 54, 57, 55, 55, 56, 56, 56, 54, 54, 54, 57, 56, 57, 56, 56, 54, 56, 57, 54, 57, 55, 56, 54, 56, 57, 54, 54, 57, 54, 54, 55, 57, 55, 56, 56, 54, 57, 54, 57, 55, 57, 56, 56, 54, 55, 55, 57, 55, 57, 54, 54, 56, 54, 57, 54, 54, 55, 56, 54, 57, 57, 54, 57, 57, 57, 54, 57, 54, 55, 56, 57, 56, 55, 55, 55, 55, 57, 55, 54, 56, 56, 55, 57, 56, 55, 54, 55, 54, 57, 56, 55, 54, 56, 56, 57, 57, 56, 56, 56, 56, 54, 56, 55, 56, 57, 55, 57, 57, 56, 56, 57, 57, 57, 54, 57, 55, 56, 56, 55, 55, 56, 57, 54, 54, 57, 55, 55, 54, 55, 57, 57, 56, 54, 55, 55, 57, 57, 54, 56, 56, 57, 54, 57, 57, 55, 54, 55, 55, 57, 56, 54, 55, 55, 55, 54, 54, 54, 54, 54, 56, 57, 55, 54, 54, 55, 56, 55, 57, 54, 57, 56, 57, 55, 56, 57, 54, 57, 57, 56, 57, 55, 54, 57, 57, 54, 57, 56, 125, 122, 122, 126, 123, 122, 123, 123, 126, 4, -80, -60, 18, -103, -111, 65, 61, -52, -67, 95, -93, 124, 105, 11, 76, -43]
+
+ø 9796897678896896879978787988768797688798678999977898799796677799878899867788.89679676977888666989886896978689669667978869697988677979668696678699699969678987777976887987676987688998888687897998899969788778966977679986779968896997677986777666668976678796989789699897699698}zz~{z{{~°Ä™‘A=Ì½_£|iLÕ

@@ -1,0 +1,16 @@
+com.alibaba.fastjson2.JSONException: offset 1, character U, line 1, column 2, fastjson-version 2.0.38 Uâ•“6â•–Â©Ð“â”Œ.Ðµ{1â”€Ñ†â– ÐºÐ
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:299)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [Uâ•“6â•–Â©Ð“â”Œ.Ðµ{1â”€Ñ†â– ÐºÐ]
+
+[18, 85, -92, 54, -89, -65, -25, -126, 5, 46, -59, 7, 123, 49, -128, -61, 5, -108, -53, -31, 28, -29, -68, 108, 3, 16, 83, 41, -123, -8, -80, 95, -84, -39, -5, -108, -88, -74, 12, -100, 124, -8, 47, -83, -103, 92, 100, 109, 100, -91, 52, 4, 57, 25, 120, -5, -71, 43, -51, -83, 98, -6, -38, -105, -79, -39, -100, 93, -69, -12, 55, -26, -113, 91, -9, -18, -77, -57, -9, -92, 62, 61, 69, 96, -122, 125, 105, 106, -10, -76, -73, -114, -49, -94, -29, 53, -80, -16, -83, -103, 101, -65, -84, 61, 8, 31, -73, 29, -96, -91, -102, 94, 115, 86, 81, -36, -103, 74, 7, -108, 41, -38, 76, -40, -51, -112, 33, -80, 67, -29, -92, -83, -70, -99, 93, 43, -44, -123, -97, 122, -42, -14, 67, -34, -15, -51, 23, -17, 49, -54, 73, -86, -110, 86, -77, -67, 51, 55, 16, -90, 2, 84, 42, -90, -111, 10, 96, -26, -59, -71, 70, 77, 6, 51, 75, 97, 74, -14, 77, 46, 87, 72, -95, 18, -52, 111, 66, -97, -98, -99, -122, -65, -77, -115, -109, -82, 69, -25, -55, 119, -37, 19, -30, 49, 27, -125, -24, 21, -127, 97, -19, -104, -39, 44, -106, 120, 19, 84, -58, -105, 53, -35, 74, -73, 8, 54, -40, -52, -45, 43, 42, -122, -95, -37, 89, 12, 102, -39, -46, 81, -107, -1, -5, 12, -115, -66, 90, -99, -85, -70, -11, -35, 124, -82, 13, 109, -11, -80, 121, 20, 65, -113, -128, 27, -96, 82, -60, 91, 105, 48, 47, -23, -39, -82, -59, 49, -62, 40, -87, -4, 77, -87, -84, 80, -115, -47, 96, 75, -126, 74, 77, -81, -105, 109, -47, 6, -39, 14, 41, -127]
+
+U¤6§¿ç‚.Å{1€Ã”Ëáã¼lS)…ø°_¬Ùû”¨¶œ|ø/­™\dmd¥49xû¹+Í­búÚ—±Ùœ]»ô7æ[÷î³Ç÷¤>=E`†}ijö´·ŽÏ¢ã5°ð­™e¿¬=· ¥š^sVQÜ™J”)ÚLØÍ!°Cã¤­º]+Ô…ŸzÖòCÞñÍï1ÊIª’V³½37¦T*¦‘
+`æÅ¹FM3KaJòM.WH¡ÌoBŸž†¿³“®EçÉwÛâ1ƒèaí˜Ù,–xTÆ—5ÝJ·6ØÌÓ+*†¡ÛYfÙÒQ•ÿû¾Z«ºõÝ|®mõ°yA€ RÄ[i0/éÙ®Å1Â(©üM©¬PÑ`K‚JM¯—mÑÙ)

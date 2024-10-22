@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 17 out of bounds for length 17
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [0446546466546542E]
+
+[16, 48, 52, 52, 54, 53, 52, 54, 52, 54, 54, 53, 52, 54, 53, 52, 50, 69, 25, 72, 48, 34, 76, 66, 47, 20, 32, 19, 40, 40, 22, 69, 52, 47, 61, 34, 18, 62, 25, 66, 70, 70, 64, 36, 62, 79, 24, 81, 77, 49, 78, 60, 45, 68, 62, 18, 55, 79, 53, 53, 69, 63, 37, 81, 72, 23, 45, 64, 31, 30, 70, 48, 64, 56, 55, 52, 19, 37, 55, 30, 70, 25, 31, 44, 65, 68, 62, 22, 37, 33, 21, 28, 77, 41, 55, 34, 78, 26, 44, 37, 55, 46, 56, 28, 83, 81, 22, 61, 72, 73, 61, 53, 36, 27, 53, 68, 46, 65, 31, 77, 69, 66, 79, 69, 83, 51, 84, 77, 52, 72, 80, 21, 51, 55, 35, 27, 44, 66, 26, 68, 30, 54, 52, 54, 53, 54, 52, 54, 53, 52, 52, 54, 52, 52, 53, 54, 52, 53, 53, 52, 52, 53, 52, 53, 54, 52, 52, 52, 53, 52, 53, 52, 54, 53, 53, 52, 54, 52, 53, 54, 54, 53, 53, 53, 52, 52, 54, 54, 53, 52, 52, 53, 53, 53, 52, 54, 52, 52, 52, 52, 54, 54, 54, 53, 54, 54, 53, 52, 52, 54, 52, 54, 53, 52, 54, 52, 52, 52, 53, 54, 52, 53, 53, 52, 54, 53, 52, 54, 54, 54, 54, 54, 52, 52, 53, 52, 52, 53, 53, 103, 95, -23, -27, -40, -128, -88, -40, 17, -81, 123, 83, 61, 36, -10, 82, 28, -109, 5, -99, -116, -119, -35, -38, 90, -104, -72, 67, 2, -28, -75, 68, 61, 6, -128, -22, -119, -110, -49, 81, 66, 93, 64, -65, 31, -47, -111, 79, -25, -12, 91, 60, -23, -75, 35, 119, -93, 113, -62, 32, -122]
+
+0446546466546542EH0"LB/ ((E4/=">BFF@$>OQM1N<-D>7O55E?%QH-@F0@874%7F,AD>%!M)7"N,%7.8SQ=HI=5$5D.AMEBOES3TM4HP37#,BD64656465446445645544545644454546554645665554466544555464444666566544646546444564554654666664454455g_ιεΨ€¨Ψ―{S=$φR“‰έΪZΈCδµD=€κ‰’ΟQB]@ΏΡ‘Oητ[<ιµ#w£qΒ †

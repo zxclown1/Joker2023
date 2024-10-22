@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 46 out of bounds for length 46
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [.11111111111111111111111111111111111111111111E]
+
+[45, 46, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 69, 102, 112, 67, 94, 90, 95, 97, 80, 76, 108, 102, 68, 112, 89, 101, 91, 112, 99, 106, 88, 95, 82, 68, 66, 88, 91, 96, 109, 104, 75, 109, 100, 111, 100, 80, 69, 92, 67, 82, 108, 103, 87, 112, 95, 67, 113, 109, 106, 86, 80, 73, 81, 112, 92, 77, 105, 114, 100, 105, 112, 88, 112, 84, 79, 111, 67, 112, 97, 81, 100, 75, 114, 86, 102, 71, 111, 112, 67, 105, 69, 70, 83, 92, 65, 85, 106, 112, 98, 96, 105, 88, 103, 71, 71, 85, 96, 66, 100, 93, 99, 107, 104, 88, 97, 87, 96, 80, 91, 84, 95, 78, 77, 88, 74, 112, 96, 75, 89, 84, 83, 106, 93, 81, 107, 108, 108, 85, 68, 107, 101, 107, 86, 76, 74, 111, 112, 107, 97, 78, 103, 105, 77, 107, 103, 103, 98, 114, 94, 109, 71, 95, 64, 110, 94, 67, 75, 94, 83, 86, 73, 77, 66, 75, 81, 87, 95, 71, 105, 103, 77, 88, 99, 95, 83, 73, 86, 81, 79, 95, 83, 87, 91, 85, 85, 88, 81, 89, 113, 80, 66, 81, 80, 65, 77, 73, 86, 95, 70, 87, 108, 66, 110, 93, 82, 113, 85, 104, 75, 85, 98, 64, 74, 75, 108, 67, 96, 96, 99, 104, 78, 84, 77, 88, 76, 78, 89, 97, -6, 25, -1, -31, 70, -107, 56, 21, -100, 77, 86, 57, -14, 117, 6, 81, -113, -46, 112, -12, -89, -104, 51, -84, -1, -106]
+
+-.11111111111111111111111111111111111111111111EfpC^Z_aPLlfDpYe[pcjX_RDBX[`mhKmdodPE\CRlgWp_CqmjVPIQp\MirdipXpTOoCpaQdKrVfGopCiEFS\AUjpb`iXgGGU`Bd]ckhXaW`P[T_NMXJp`KYTSj]QkllUDkekVLJopkaNgiMkggbr^mG_@n^CK^SVIMBKQW_GigMXc_SIVQO_SW[UUXQYqPBQPAMIV_FWlBn]RqUhKUb@JKlC``chNTMXLNYa˙ˇ·Fï8úMV9ÚuQè“pÙßò3¨ˇñ

@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 78 out of bounds for length 78
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [04413243030314113142023431224242230141103240233324411324400331003332113440340E]
+
+[77, 48, 52, 52, 49, 51, 50, 52, 51, 48, 51, 48, 51, 49, 52, 49, 49, 51, 49, 52, 50, 48, 50, 51, 52, 51, 49, 50, 50, 52, 50, 52, 50, 50, 51, 48, 49, 52, 49, 49, 48, 51, 50, 52, 48, 50, 51, 51, 51, 50, 52, 52, 49, 49, 51, 50, 52, 52, 48, 48, 51, 51, 49, 48, 48, 51, 51, 51, 50, 49, 49, 51, 52, 52, 48, 51, 52, 48, 69, 66, 66, 70, 66, 69, 67, 66, 66, 66, 67, 69, 70, 68, 67, 70, 70, 67, 68, 68, 66, 70, 69, 70, 67, 69, 66, 70, 69, 67, 70, 67, 67, 70, 69, 66, 67, 70, 70, 68, 67, 67, 70, 66, 67, 69, 69, 67, 66, 69, 70, 67, 69, 70, 68, 68, 67, 68, 69, 69, 68, 69, 66, 68, 68, 67, 70, 67, 68, 66, 69, 69, 69, 67, 67, 70, 67, 69, 67, 67, 69, 70, 69, 110, 99, 109, 108, 111, 109, 106, 104, 100, 101, 100, 101, 99, 111, 102, 103, 110, 108, 101, 108, 100, 112, 108, 106, 110, 102, 107, 99, 101, 104, 99, 106, 106, 100, 103, 103, 109, 111, 101, 102, 106, 105, 107, -37, 35, -31, 93, -65, 67, 11, 28, 32, -79, 109, 78, 77, -28, 116, 52, 115, -105, -122, -48, -104, 92, 123, 87, -126, -2, 97, -25, -61, -23, 88, 26, 14, -102, 68, 20, 8, 96, -111, 118, 64, -73, -20, 54, -49, 4, 110, -108, 123, -120, -48, 90, -104, -118, -125, 65, 77, -86, -82, 110, 112, 114, -16, 40, -104, -58, -110, 126, -30, -112, 52, -54, -92, 105, -22, -97, 56, -102, -92, 109, -64, -14, -5, 83, 14, -104, -101, 37, 104, 61, 30, 28, -96, 15, -19, -60]
+
+M04413243030314113142023431224242230141103240233324411324400331003332113440340EBBFBECBBBCEFDCFFCDDBFEFCEBFECFCCFEBCFFDCCFBCEECBEFCEFDDCDEEDEBDDCFCDBEEECCFCECCEFEncmlomjhdedecofgnleldpljnfkcehcjjdggmoefjik€#·]øC ±mNM‰t4sóÜ–ò\{WÇ˛aÁ√ÈXöD`ëv@∑Ï6œnî{à–ZòäÉAM™Ænpr(ò∆í~‚ê4 §iÍü8ö§m¿Ú˚Sòõ%h=†Ìƒ

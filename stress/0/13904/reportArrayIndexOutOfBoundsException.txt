@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 40 out of bounds for length 40
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [511000001000001111010111011000111011010e]
+
+[39, 53, 49, 49, 48, 48, 48, 48, 48, 49, 48, 48, 48, 48, 48, 49, 49, 49, 49, 48, 49, 48, 49, 49, 49, 48, 49, 49, 48, 48, 48, 49, 49, 49, 48, 49, 49, 48, 49, 48, 101, 101, 108, 108, 112, 103, 101, 117, 104, 103, 117, 115, 103, 117, 111, 119, 108, 106, 104, 111, 108, 106, 102, 102, 119, 104, 114, 101, 108, 112, 119, 116, 106, 112, 114, 113, 113, 106, 102, 107, 103, 107, 104, 111, 113, 112, 119, 111, 114, 105, 101, 110, 111, 104, 119, 118, 109, 105, 103, 102, 102, 113, 101, 119, 116, 117, 105, 103, 105, 103, 117, 107, 111, 118, 115, 105, 117, 101, 103, 108, 110, 113, 106, 114, 116, 113, 104, 108, 105, 116, 111, 103, 113, 105, 115, 119, 106, 106, 101, 111, 103, 103, 104, 116, 114, 103, 103, 115, 108, 119, 118, 102, 114, 104, 108, 114, 117, 118, 108, 118, 108, 113, 101, 106, 105, 119, 103, 103, 104, 112, 103, 104, 103, 104, 117, 104, 103, 117, 107, 105, 109, 106, 112, 115, 117, 114, 117, 107, 109, 106, 106, 110, 105, 111, 109, 108, 119, 111, 103, 103, 103, 106, 115, 112, 109, 115, 114, 111, 116, 110, 104, 48, 48, 49, 49, 48, 48, 49, 48, 49, 49, 49, 48, 49, 49, 49, 48, 49, 49, 48, 49, 48, 49, 48, 49, 49, 48, 48, 49, 48, 48, 49, 48, 49, 49, 48, 49, 48, 48, 48, 48, 49, 49, 49, 48, 48, 48, 48, 48, 49, 49, 48, 49, 49, 48, 48, 48, 48, 48, 49, 48, 49, 48, 49, 48, 49, 48, 49, 48, 48, 49, 48, -36, 66, 49, -108, -52, -15, 46, 47, 84, 74, -104, 104, -127, 16, 126, -73, 112, 84]
+
+'511000001000001111010111011000111011010eellpgeuhgusguowljholjffwhrelpwtjprqqjfkgkhoqpworienohwvmigffqewtuigigukovsiueglnqjrtqhlitogqiswjjeogghtrggslwvfrhlruvlvlqejiwgghpghghuhgukimjpsurukmjjniomlwogggjspmsrotnh00110010111011101101010110010010110100001110000011011000001010101010010‹B1îÃÒ./TJòhÅ~∑pT

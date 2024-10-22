@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "78776786."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [6878787887786666788678768787867678867666678776786.#&,=4/8]
+
+[56, 54, 56, 55, 56, 55, 56, 55, 56, 56, 55, 55, 56, 54, 54, 54, 54, 55, 56, 56, 54, 55, 56, 55, 54, 56, 55, 56, 55, 56, 54, 55, 54, 55, 56, 56, 54, 55, 54, 54, 54, 54, 55, 56, 55, 55, 54, 55, 56, 54, 46, 35, 38, 44, 61, 52, 47, 56, 55, 35, 34, 70, 51, 68, 58, 43, 51, 64, 36, 31, 43, 49, 68, 42, 70, 49, 66, 60, 69, 37, 62, 41, 37, 47, 56, 56, 56, 55, 54, 55, 56, 54, 55, 54, 54, 55, 54, 55, 55, 54, 54, 54, 56, 55, 56, 54, 55, 56, 55, 55, 55, 54, 54, 54, 55, 55, 56, 55, 54, 55, 54, 56, 56, 56, 55, 56, 56, 55, 56, 54, 54, 55, 55, 55, 54, 56, 55, 56, 54, 54, 56, 56, 55, 56, 54, 54, 55, 54, 54, 55, 54, 55, 55, 56, 55, 55, 55, 54, 54, 55, 56, 54, 54, 56, 54, 55, 54, 55, 56, 55, 55, 56, 56, 56, 55, 56, 55, 55, 54, 54, 55, 56, 56, 54, 56, 56, 56, 56, 54, 54, 55, 56, 56, 54, 55, 54, 56, 56, 54, 56, 54, 56, 54, 56, 55, 55, 56, 55, 55, 56, 55, 56, 56, 54, 56, 56, 56, 54, 54, 56, 55, 56, 54, 56, 54, 56, 55, 56, 56, 55, 56, 55, 56, 56, 55, 56, 55, 56, 54, 54, 54, 56, 54, 54, 54, 54, 54, 55, 56, 54, 56, 55, 55, 54, 54, 54, 56, 54, 55, 55, 55, 54, 55, 55, 55, 55, 55, 56, 55, 54, 54, 56, 55, 56, 54, 55, 55, 54, 56, 55, 55, 54, 56, 54, 54, 54, 55, -55, 27, 40, -36, -62, 44, -86, -93, 96, 105, -13, 125, 96]
+
+86878787887786666788678768787867678867666678776786.#&,=4/87#"F3D:+3@$+1D*F1B<E%>)%/88876786766767766687867877766677876768887887866777687866887866766767787776678668676787788878776678868888667886768868686877877878868886687868687887878878786668666667868776668677767777787668786776877686667É(ÜÂ,ª£`ió}`

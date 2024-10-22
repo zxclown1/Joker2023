@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 10
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [944409.73e]
+
+[9, 57, 52, 52, 52, 48, 57, 46, 55, 51, 101, 101, 102, 102, 102, 102, 103, 101, 103, 102, 101, 101, 101, 102, 103, 102, 104, 102, 102, 103, 101, 104, 101, 104, 104, 104, 102, 103, 103, 104, 101, 103, 104, 101, 104, 102, 102, 101, 103, 103, 102, 102, 103, 102, 103, 103, 102, 103, 101, 104, 103, 101, 103, 101, 102, 103, 101, 102, 102, 103, 101, 101, 102, 104, 104, 101, 101, 102, 104, 101, 104, 103, 102, 71, 76, 63, 73, 71, 64, 78, 79, 61, 73, 57, 82, 80, 67, 56, 59, 77, 63, 84, 80, 63, 67, 57, 73, 70, 68, 75, 72, 62, 74, 66, 84, 61, 73, 56, 56, 83, 80, 57, 75, 85, 85, 79, 72, 60, 87, 59, 70, 66, 71, 61, 82, 78, 59, 87, 71, 74, 83, 66, 68, 65, 87, 65, 75, 82, 85, 56, 80, 70, 68, 66, 76, 73, 61, 71, 70, 57, 72, 75, 66, 63, 69, 66, 87, 69, 61, 65, 73, 63, 66, 85, 56, 82, 64, 68, 64, 76, 60, 65, 73, 82, 60, 61, 62, 77, 65, 57, 66, 83, 67, 78, 75, 81, 81, 58, 75, 69, 82, 75, 77, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 93, -99, 45, 51, -71, 22, -20, 93, 60, 6, -82, -35, 25, -93, -46, -103, -2, -120, -32, 16, 8, 73, 109, 68, -98, 29, 98, -56, -114, 20, -78, -44, 121, 22, -59, 22, -108, -82, 27, 59, -96, -19, 101, -79, 59, -31, -84, -21, 114, 7, -78, 104, -114, -116, -83, 103, 29, 101, -24, 26, -64, 19, 9, 113, -74, -52, -68, -44, 26, -97, -76, -115, 27, -12, 73, -126, -67, 49, 104, 113, 34, -47, 18, -58, -39, 9, -2]
+
+	944409.73eeffffgegfeeefgfhffgehehhhfggheghehffeggffgfggfgehgegefgeffgeefhheefhehgfGL?IG@NO=I9RPC8;M?TP?C9IFDKH>JBT=I88SP9KUUOH<W;FBG=RN;WGJSBDAWAKRU8PFDBLI=GF9HKB?EBWE=AI?BU8R@D@L<AIR<=>MA9BSCNKQQ:KERKM4444444444]ù-3πÏ]<Æ›£“ô˛à‡ImDûb»é≤‘y≈îÆ;†Ìe±;·¨Îr≤héå≠geË¿	q∂Ãº‘ü¥çÙIÇΩ1hq"—∆Ÿ	˛

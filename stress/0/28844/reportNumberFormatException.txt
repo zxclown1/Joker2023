@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "11111111."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [111111111111111111111111111111111111111.(.8"96(6]
+
+[49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 46, 40, 46, 56, 26, 34, 57, 54, 40, 54, 20, 46, 26, 27, 48, 18, 50, 37, 52, 49, 43, 44, 24, 42, 36, 36, 54, 16, 27, 37, 45, 25, 55, 15, 18, 23, 52, 50, 40, 29, 52, 52, 27, 32, 29, 56, 33, 29, 27, 43, 40, 55, 21, 38, 22, 19, 34, 34, 21, 29, 43, 28, 47, 29, 23, 50, 50, 53, 54, 42, 52, 25, 30, 52, 41, 15, 44, 49, 29, 47, 28, 18, 35, 38, 54, 56, 40, 40, 54, 34, 50, 15, 26, 33, 15, 16, 50, 17, 54, 42, 18, 25, 23, 34, 39, 43, 41, 40, 33, 20, 38, 30, 33, 41, 49, 23, 27, 43, 15, 45, 38, 39, 42, 57, 24, 32, 16, 47, 16, 45, 19, 50, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, -85, 107, 23, -63, -64, 27, -41, 71, -114, 82, -75, -126, 99, 28, 113, 23, 104, -74, 102, -117, 32]
+
+1111111111111111111111111111111111111111.(.8"96(6.02%41+,*$$6%-742(44 8!+(7&""+/2256*44),1/#&68((6"2!26*"'+)(!&!)1+-&'*9 /-211111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111«kÁÀ×GŽRµ‚cqh¶f‹ 

@@ -1,0 +1,16 @@
+java.lang.ArrayIndexOutOfBoundsException: Index 53 out of bounds for length 53
+	at com.alibaba.fastjson2.JSONReaderUTF8.readNumber0(JSONReaderUTF8.java:6336)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1057)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [1111111111111111111111111111111111111111111111111111E]
+
+[52, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 69, 77, 106, 105, 70, 67, 83, 93, 56, 69, 97, 107, 98, 53, 23, 57, 73, 52, 55, 66, 33, 104, 55, 63, 33, 41, 49, 50, 94, 21, 46, 86, 64, 98, 37, 55, 102, 91, 47, 70, 84, 104, 42, 80, 41, 86, 65, 22, 29, 66, 24, 54, 54, 57, 108, 95, 26, 53, 107, 31, 92, 95, 22, 97, 92, 98, 34, 71, 75, 67, 64, 64, 37, 54, 108, 91, 32, 68, 93, 44, 47, 34, 24, 36, 108, 66, 27, 63, 41, 60, 87, 91, 49, 79, 77, 51, 84, 26, 66, 99, 64, 70, 32, 62, 27, 98, 29, 84, 57, 103, 43, 55, 66, 84, 23, 27, 75, 37, 96, 68, 35, 22, 51, 42, 79, 101, 102, 32, 101, 40, 94, 73, 84, 33, 80, 68, 103, 65, 89, 82, 103, 100, 85, 74, 21, 61, 38, 82, 106, 92, 90, 93, 27, 88, 44, 50, 41, 107, 78, 32, 23, 47, 76, 84, 106, 54, 37, 95, 42, 89, 47, 64, 63, 22, 65, 96, 47, 47, 59, 30, 49, 78, 47, 103, 60, 108, 95, 65, 81, 101, 94, 80, 61, 38, 54, 97, 91, 87, 65, 27, 98, 93, 32, 85, 70, 23, 87, 59, 77, 47, 104, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, -88, -114, -40, -98, 34, 123, 100, -90, 44, -108, 58, 84, -114, 66, -26, 75, 122, -81, 39, 11, 20]
+
+41111111111111111111111111111111111111111111111111111EMjiFCS]8Eakb59I47B!h7?!)12^.V@b%7f[/FTh*P)VAB669l_5k\_a\b"GKC@@%6l[ D],/"$lB?)<W[1OM3TBc@F >bT9g+7BTK%`D#3*Oef e(^IT!PDgAYRgdUJ=&Rj\Z]X,2)kN /LTj6%_*Y/@?A`//;1N/g<l_AQe^P=&6a[WAb] UFW;M/h444444444444444¨ŽØž"{d¦,”:TŽBæKz¯'

@@ -1,0 +1,20 @@
+java.lang.NumberFormatException: For input string: "99899888."
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:545)
+	at java.base/java.math.BigInteger.<init>(BigInteger.java:674)
+	at com.alibaba.fastjson2.JSONReader.getNumber(JSONReader.java:2977)
+	at com.alibaba.fastjson2.JSONReader.readNumber(JSONReader.java:1058)
+	at com.alibaba.fastjson2.reader.ObjectReaderImplObject.readObject(ObjectReaderImplObject.java:273)
+	at com.alibaba.fastjson2.JSON.parse(JSON.java:79)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at me.markoutte.joker.parse.step3.MainKt.main(Main.kt:60)
+
+
+parse: [9988998898999999999898989988988899899888./6/5/22/=<8/6/466]
+
+[57, 57, 57, 56, 56, 57, 57, 56, 56, 57, 56, 57, 57, 57, 57, 57, 57, 57, 57, 57, 56, 57, 56, 57, 56, 57, 57, 56, 56, 57, 56, 56, 56, 57, 57, 56, 57, 57, 56, 56, 56, 46, 47, 54, 47, 53, 47, 50, 50, 47, 61, 60, 56, 47, 54, 47, 52, 54, 54, 49, 48, 59, 58, 46, 49, 56, 57, 54, 51, 47, 45, 57, 53, 55, 54, 61, 50, 46, 58, 46, 47, 56, 60, 50, 45, 59, 46, 61, 45, 55, 56, 61, 55, 50, 54, 55, 53, 52, 53, 46, 60, 53, 51, 53, 60, 61, 51, 45, 45, 45, 56, 59, 47, 54, 57, 51, 58, 47, 50, 51, 60, 49, 60, 49, 45, 45, 58, 49, 55, 48, 59, 55, 46, 51, 52, 57, 52, 58, 55, 61, 54, 61, 48, 46, 57, 49, 54, 53, 49, 55, 55, 60, 50, 53, 46, 50, 52, 61, 49, 46, 45, 52, 54, 51, 49, 52, 59, 55, 52, 57, 56, 50, 60, 59, 58, 54, 51, 51, 45, 61, 47, 54, 51, 48, 57, 60, 53, 49, 47, 51, 56, 60, 46, 61, 53, 47, 59, 60, 49, 60, 54, 59, 57, 48, 47, 59, 50, 50, 56, 50, 59, 54, 57, 61, 47, 51, 61, 59, 47, 50, 54, 47, 45, 55, 55, 45, 48, 49, 57, 50, 52, 53, 45, 56, 56, 52, 48, 50, 53, 45, 54, 55, 59, 56, 59, 57, 56, 56, 57, 56, 56, 57, 56, 56, 57, 57, 56, 56, 57, 56, 57, 56, 57, 57, 56, 57, 56, 56, 56, 57, 57, 57, 56, 57, 56, 56, 57, 56, 57, 56, 56, 57, 57, 56, 56, 56, 56, 57, 57, 56, 57, 56, 56, 56, 56, 57, 56, 57, 28, -123]
+
+99988998898999999999898989988988899899888./6/5/22/=<8/6/46610;:.18963/-9576=2.:./8<2-;.=-78=7267545.<535<=3---8;/693:/23<1<1--:170;7.3494:7=6=0.9165177<25.24=1.-46314;74982<;:633-=/6309<51/38<.=5/;<1<6;90/;2282;69=/3=;/26/-77-019245-884025-67;8;98898898899889898998988899989889898899888899898888989…
